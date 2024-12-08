@@ -17,13 +17,13 @@ const VehicleDetails = () => {
   }
 
   return (
-    <div className="details-page">
+    <div className="container details-page">
       <h1>{vehicle.name}</h1>
-      <img src={vehicle.image} alt={vehicle.name} />
+      <img src={vehicle.image} className="img-fluid" alt={vehicle.name} />
       <p>Price: ${vehicle.price}</p>
       <p>KMs: {vehicle.kms}</p>
       <p>Description: {vehicle.description}</p>
-      <Link to="/" className="back-link">Back to List</Link>
+      <Link to="/" className="btn btn-secondary mt-3">Back to List</Link>
     </div>
   );
 };

@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import './App.css';
-import VehicleDetails from './VehicleDetails'; 
+import VehicleDetails from './components/VehicleDetails'; 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 // Sample vehicle data
@@ -41,17 +41,17 @@ function VehicleList({ vehicles }) {
   };
 
   return (
-    <div className="container app">
-      <header className="d-flex justify-content-between align-items-center py-3">
+    <div className="container-fluid app">
+      <header className="d-flex flex-column align-items-center py-3 bg-dark text-white full-width">
         <h1>Car Dealership</h1>
-        <select className="form-select" onChange={handleFilterChange} value={filter}>
+      </header>
+
+      <main>
+      <select className="form-select w-25 mt-3" onChange={handleFilterChange} value={filter}>
           <option value="">Filter by price or KMs</option>
           <option value="price">Price</option>
           <option value="kms">KMs</option>
         </select>
-      </header>
-
-      <main>
         <div className="row vehicle-grid">
           {filteredVehicles.slice(0, 16).map((vehicle) => (
             <div key={vehicle.id} className="col-md-3 mb-4 vehicle-card">

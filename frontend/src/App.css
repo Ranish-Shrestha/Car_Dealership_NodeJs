@@ -3,7 +3,7 @@
 /* General Styles */
 body {
   font-family: 'Arial', sans-serif;
-  background-color: #f4f4f4;
+  background-color: #f8f9fa;
   margin: 0;
   padding: 0;
 }
@@ -23,10 +23,12 @@ a:hover {
 
 /* Header Styles */
 header {
-  background-color: #333;
+  background-color: #343a40;
   color: white;
   padding: 20px;
   text-align: center;
+  width: 100%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 select {
@@ -39,7 +41,7 @@ select {
 /* Vehicle List Styles */
 .vehicle-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-template-columns: repeat(4, 1fr);
   gap: 20px;
   padding: 20px;
 }
@@ -55,20 +57,22 @@ select {
 
 .vehicle-card:hover {
   transform: translateY(-10px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 
 .vehicle-card img {
   width: 100%;
   height: auto;
+  border-bottom: 1px solid #ddd;
 }
 
 .vehicle-card h2 {
-  font-size: 20px;
+  font-size: 16px;
   margin-top: 10px;
 }
 
 .vehicle-card p {
-  font-size: 16px;
+  font-size: 14px;
   color: #555;
 }
 
@@ -80,6 +84,7 @@ select {
   color: white;
   border-radius: 5px;
   text-decoration: none;
+  transition: background-color 0.3s ease;
 }
 
 .details-link:hover {
@@ -101,11 +106,13 @@ select {
   width: 100%;
   height: auto;
   border-radius: 10px;
+  margin-bottom: 20px;
 }
 
 .details-page p {
   font-size: 18px;
   margin-top: 10px;
+  color: #333;
 }
 
 .back-link {
@@ -116,6 +123,7 @@ select {
   color: white;
   border-radius: 5px;
   text-decoration: none;
+  transition: background-color 0.3s ease;
 }
 
 .back-link:hover {

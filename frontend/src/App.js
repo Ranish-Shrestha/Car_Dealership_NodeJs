@@ -1,6 +1,8 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import './App.css';
+import VehicleDetails from './VehicleDetails'; 
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 // Sample vehicle data
 const vehicles = [
@@ -14,27 +16,60 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<VehicleList />} />
+        <Route path="/" element={<VehicleList vehicles={vehicles} />} />
+        <Route path="/vehicle/:id" element={<VehicleDetails vehicles={vehicles} />} />
       </Routes>
     </Router>
   );
 }
 
-function VehicleList() {
+function VehicleList({ vehicles }) {
+  const [filter, setFilter] = useState('');
+  const [filteredVehicles, setFilteredVehicles] = useState(vehicles);
+
+  const handleFilterChange = (e) => {
+    const value = e.target.value;
+    setFilter(value);
+
+    if (value === 'price') {
+      setFilteredVehicles([...vehicles].sort((a, b) => a.price - b.price));
+    } else if (value === 'kms') {
+      setFilteredVehicles([...vehicles].sort((a, b) => a.kms - b.kms));
+    } else {
+      setFilteredVehicles(vehicles);
+    }
+  };
+
   return (
-    <div className="vehicle-list">
-      <h1>Car Dealership</h1>
-      <div className="vehicle-grid">
-        {vehicles.map(vehicle => (
-          <div key={vehicle.id} className="vehicle-card">
-            <img src={vehicle.image} alt={vehicle.name} />
-            <h2>{vehicle.name}</h2>
-            <p>Price: ${vehicle.price}</p>
-            <p>KMs: {vehicle.kms}</p>
-            <Link to={`/vehicle/${vehicle.id}`}>View Details</Link>
-          </div>
-        ))}
-      </div>
+    <div className="container app">
+      <header className="d-flex justify-content-between align-items-center py-3">
+        <h1>Car Dealership</h1>
+        <select className="form-select" onChange={handleFilterChange} value={filter}>
+          <option value="">Filter by price or KMs</option>
+          <option value="price">Price</option>
+          <option value="kms">KMs</option>
+        </select>
+      </header>
+
+      <main>
+        <div className="row vehicle-grid">
+          {filteredVehicles.slice(0, 16).map((vehicle) => (
+            <div key={vehicle.id} className="col-md-3 mb-4 vehicle-card">
+              <div className="card">
+                <img src={vehicle.image} className="card-img-top" alt={vehicle.name} />
+                <div className="card-body">
+                  <h5 className="card-title">{vehicle.name}</h5>
+                  <p className="card-text">Price: ${vehicle.price}</p>
+                  <p className="card-text">KMs: {vehicle.kms}</p>
+                  <Link to={`/vehicle/${vehicle.id}`} className="btn btn-primary">
+                    View Details
+                  </Link>
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </main>
     </div>
   );
 }

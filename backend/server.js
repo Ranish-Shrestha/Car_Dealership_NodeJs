@@ -22,7 +22,7 @@ app.use(bodyParser.json());
 // app.use('/uploads', express.static('uploads')); // Serve images
 app.use('/vehicles', vehicleRoutes);
 
-const port = 3000;
+const port = 3003;
 app.listen(port, () => {
     console.log(`Server running on http://localhost:${port}`);
 });

@@ -1,31 +1,86 @@
-import React from 'react';
-import { useParams, Link } from 'react-router-dom';
+import React, { useState, useEffect } from 'react';
+import { useParams } from 'react-router-dom'; // To get the id from the URL
 
-const vehicles = [
-  { id: 1, name: 'Toyota Corolla', price: 20000, kms: 5000, image: 'https://via.placeholder.com/150', description: 'A reliable sedan with great mileage.' },
-  { id: 2, name: 'Honda Civic', price: 22000, kms: 3000, image: 'https://via.placeholder.com/150', description: 'A sporty sedan with advanced features.' },
-  { id: 3, name: 'Ford Focus', price: 18000, kms: 8000, image: 'https://via.placeholder.com/150', description: 'A compact car that is fun to drive.' },
-  { id: 4, name: 'BMW X5', price: 45000, kms: 2000, image: 'https://via.placeholder.com/150', description: 'A luxury SUV with top-notch features.' },
-];
+function VehicleDetails() {
+  const { id } = useParams();  // Get the vehicle id from the URL
+  const [vehicle, setVehicle] = useState(null);  // To store vehicle data
+  const [loading, setLoading] = useState(true);  // To manage loading state
+  const [error, setError] = useState(null);  // To manage error state
 
-const VehicleDetails = () => {
-  const { id } = useParams();
-  const vehicle = vehicles.find((v) => v.id === parseInt(id));
+  useEffect(() => {
+    // Fetch vehicle details from the API based on the vehicle id
+    const fetchVehicleDetails = async () => {
+      try {
+        const response = await fetch(`http://localhost:3003/vehicles/${id}`);
+        if (!response.ok) {
+          throw new Error('Failed to fetch vehicle details');
+        }
+        const data = await response.json();
+        setVehicle(data);  // Set the fetched data to state
+      } catch (err) {
+        setError(err.message);  // Handle any error during fetch
+      } finally {
+        setLoading(false);  // Set loading to false after fetching
+      }
+    };
 
-  if (!vehicle) {
-    return <h2>Vehicle not found</h2>;
+    fetchVehicleDetails();
+  }, [id]);  // The effect will run again if the id changes
+
+  if (loading) {
+    return <p>Loading...</p>;  // Display loading while data is being fetched
   }
 
+  if (error) {
+    return <p>Error: {error}</p>;  // Display error message if fetch fails
+  }
+
+  if (!vehicle) {
+    return <p>No vehicle data found</p>;  // Display message if no vehicle data is available
+  }
+
+  // Destructure vehicle details
+  const { make, model, price, kms, description, images } = vehicle;
+
   return (
-    <div className="details-page">
-      <h1>{vehicle.name}</h1>
-      <img src={vehicle.image} alt={vehicle.name} />
-      <p>Price: ${vehicle.price}</p>
-      <p>KMs: {vehicle.kms}</p>
-      <p>Description: {vehicle.description}</p>
-      <Link to="/" className="back-link">Back to List</Link>
+    <div className="vehicle-details">
+      <h1>{make} {model}</h1>
+
+      {/* Bootstrap Carousel */}
+      <div id="vehicleCarousel" className="carousel slide" data-bs-ride="carousel">
+        <div className="carousel-inner">
+          {images && images.length > 0 ? (
+            images.map((image, index) => (
+              <div className={`carousel-item ${index === 0 ? 'active' : ''}`} key={index}>
+                <img src={image} className="d-block w-100 carousel-img" alt={`Vehicle Image ${index + 1}`} />
+              </div>
+            ))
+          ) : (
+            <div className="carousel-item active">
+              <img src="default-image.jpg" className="d-block w-100 carousel-img" alt="No image available" />
+            </div>
+          )}
+        </div>
+
+        {/* Carousel Controls */}
+        <button className="carousel-control-prev" type="button" data-bs-target="#vehicleCarousel" data-bs-slide="prev">
+          <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span className="visually-hidden">Previous</span>
+        </button>
+        <button className="carousel-control-next" type="button" data-bs-target="#vehicleCarousel" data-bs-slide="next">
+          <span className="carousel-control-next-icon" aria-hidden="true"></span>
+          <span className="visually-hidden">Next</span>
+        </button>
+      </div>
+
+      <div>
+        {/* Additional vehicle details */}
+        <p><strong>Price:</strong> ${price}</p>
+        <p><strong>KMs:</strong> {kms}</p>
+        <p><strong>Description:</strong> {description}</p>
+      </div>
     </div>
   );
-};
+}
 
 export default VehicleDetails;

@@ -6,10 +6,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 // Sample vehicle data
 const vehicles = [
-  { id: 1, name: 'Toyota Corolla', price: 20000, kms: 5000, image: 'https://via.placeholder.com/150', description: 'A reliable sedan with great mileage.' },
-  { id: 2, name: 'Honda Civic', price: 22000, kms: 3000, image: 'https://via.placeholder.com/150', description: 'A sporty sedan with advanced features.' },
-  { id: 3, name: 'Ford Focus', price: 18000, kms: 8000, image: 'https://via.placeholder.com/150', description: 'A compact car that is fun to drive.' },
-  { id: 4, name: 'BMW X5', price: 45000, kms: 2000, image: 'https://via.placeholder.com/150', description: 'A luxury SUV with top-notch features.' },
+  { id: 1, name: 'Toyota Corolla', price: 20000, kms: 5000, image: 'https://www.fmdt.info/vehicle/toyota/2019/corolla-32-white.png', description: 'A reliable sedan with great mileage.' },
+  { id: 2, name: 'Honda Civic', price: 22000, kms: 3000, image: 'https://vehicle-images.dealerinspire.com/6a9d-11000999/thumbnails/large/2HGFE2F59SH518151/3b94b5b95364af1482c9397e6b8c3b7b.png', description: 'A sporty sedan with advanced features.' },
+  { id: 3, name: 'Ford Focus', price: 18000, kms: 8000, image: 'https://www.motortrend.com/uploads/sites/10/2017/10/2018-ford-focus-se-sedan-angular-front.png', description: 'A compact car that is fun to drive.' },
+  { id: 4, name: 'BMW X5', price: 45000, kms: 2000, image: 'https://cache.bmwusa.com/cosy.arox?pov=walkaround&brand=WBBM&vehicle=25XO&client=byoc&paint=P0300&fabric=FKPSW&sa=S01CE,S01SF,S0255,S02TB,S0302,S0319,S0322,S03AT,S03MB,S0402,S0420,S0423,S0459,S0481,S0494,S04FL,S04KR,S04T8,S04UR,S0552,S05AC,S05AS,S05DM,S0676,S06AC,S06AK,S06C4,S06CP,S06NX,S06U2,S0775&angle=30', description: 'A luxury SUV with top-notch features.' },
 ];
 
 function App() {

@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 // Fetch vehicle data
 async function fetchVehicleData() {
-  const url = "http://localhost:3003/vehicles";
+  const url = "http://localhost:4000/vehicles";
   try {
     const response = await fetch(url, {
       method: "GET",
@@ -56,13 +56,6 @@ function VehicleList() {
     }));
   };
 
-  if (vehicles.length === 0) {
-    return <p>Loading vehicles...</p>;
-  }
-  if (filteredVehicles.length === 0) {
-    return <p>No vehicles match your criteria. Please adjust the filters.</p>;
-  }
-
   return (
     <div className="vehicle-list">
       <h1>Car Dealership</h1>
@@ -96,28 +89,34 @@ function VehicleList() {
         </label>
       </div>
 
-      <div className="vehicle-grid">
-        {vehiclesToDisplay.map((vehicle) => (
-          <div key={vehicle.id} className="vehicle-card">
-            {/* Display the first image */}
-            <img src={vehicle.images[0] || 'default-image.jpg'} alt={vehicle.make} />
-            <h2>{vehicle.make}</h2>
-            <p>Price: ${vehicle.price}</p>
-            <p>KMs: {vehicle.kms}</p>
-            <p>{vehicle.description?.slice(0, 100) || 'No description available.'}</p>
-            <Link to={`/vehicle/${vehicle._id}`}>View Details</Link>
-          </div>
-        ))}
-      </div>
+      {filteredVehicles.length > 0 ? (
+        <div className="vehicle-grid">
+          {vehiclesToDisplay.map((vehicle) => (
+            <div key={vehicle.id} className="vehicle-card">
+              <img src={vehicle.images[0] || 'default-image.jpg'} alt={vehicle.make} />
+              <h2>{vehicle.make}</h2>
+              <p>Price: ${vehicle.price}</p>
+              <p>KMs: {vehicle.kms}</p>
+              <p>{vehicle.description?.slice(0, 100) || 'No description available.'}</p>
+              <Link to={`/vehicle/${vehicle._id}`}>View Details</Link>
+            </div>
+          ))}
+        </div>
+      ) : (
+        <p>No vehicles match your criteria. Please adjust the filters.</p>
+      )}
 
       <div className="pagination">
         <button disabled={page === 1} onClick={() => setPage((p) => p - 1)}>
           Previous
         </button>
         <span>
-          Page {page} of {totalPages}
+          Page {page} of {totalPages || 1}
         </span>
-        <button disabled={page === totalPages} onClick={() => setPage((p) => p + 1)}>
+        <button
+          disabled={page === totalPages || totalPages === 0}
+          onClick={() => setPage((p) => p + 1)}
+        >
           Next
         </button>
       </div>

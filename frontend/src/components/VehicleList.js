@@ -126,3 +126,5 @@ function VehicleList() {
 }
 
 export default VehicleList;
+
+export default VehicleList;

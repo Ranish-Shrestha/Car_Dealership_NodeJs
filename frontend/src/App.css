@@ -1,30 +1,37 @@
 /* App.css */
 body {
   font-family: 'Arial', sans-serif;
+  background-color: #f8f9fa;
   margin: 0;
   padding: 0;
-  background-color: #f4f4f9;
+}
+
+h1,
+h2,
+h3 {
   color: #333;
 }
 
-h1 {
-  text-align: center;
-  color: #4CAF50;
-  margin: 20px 0;
+a {
+  color: #007bff;
+  text-decoration: none;
 }
 
-.vehicle-list {
-  width: 90%;
-  max-width: 1200px;
-  margin: 0 auto;
+a:hover {
+  text-decoration: underline;
+}
+
+/* Header Styles */
+header {
+  background-color: #343a40;
+  color: white;
   padding: 20px;
+  text-align: center;
+  width: 100%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.filters {
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 20px;
-  background: #fff;
+select {
   padding: 10px;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -55,24 +62,28 @@ h1 {
   overflow: hidden;
   text-align: center;
   padding: 10px;
+  transition: transform 0.3s ease;
+}
+
+.vehicle-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 
 .vehicle-card img {
   width: 100%;
   height: auto;
-  max-height: 150px;
-  object-fit: cover;
+  border-bottom: 1px solid #ddd;
 }
 
 .vehicle-card h2 {
-  font-size: 18px;
-  color: #333;
-  margin: 10px 0;
+  font-size: 16px;
+  margin-top: 10px;
 }
 
 .vehicle-card p {
   font-size: 14px;
-  margin: 5px 0;
+  color: #555;
 }
 
 .vehicle-card a {
@@ -82,11 +93,11 @@ h1 {
   color: #fff;
   background-color: #4CAF50;
   text-decoration: none;
-  border-radius: 4px;
+  transition: background-color 0.3s ease;
 }
 
-.vehicle-card a:hover {
-  background-color: #45a049;
+.details-link:hover {
+  background-color: #0056b3;
 }
 
 .pagination {
@@ -118,82 +129,239 @@ h1 {
 
 .vehicle-details {
   text-align: center;
-  padding: 20px;
 }
 
-.vehicle-details img {
-  max-width: 300px;
+.details-page img {
   height: auto;
-  margin-bottom: 20px;
-  border-radius: 8px;
+  border: 1px grey;
+  border-radius: 10px;
 }
 
-.vehicle-details h1 {
-  font-size: 24px;
-  color: #4CAF50;
+.details-page p {
+  font-size: 18px;
+  margin-top: 10px;
+  color: #333;
 }
 
-.vehicle-details p {
-  font-size: 16px;
-  margin: 10px 0;
-}
-
-.vehicle-details a {
+.back-link {
   display: inline-block;
   margin-top: 20px;
   padding: 10px 20px;
-  background-color: #4CAF50;
-  color: #fff;
-  text-decoration: none;
-  border-radius: 4px;
-}
-
-.vehicle-details a:hover {
-  background-color: #45a049;
-}
-
-.vehicle-card {
-  background-color: #f9f9f9;
-  border: 1px solid #ddd;
-  padding: 20px;
-  text-align: center;
-  border-radius: 8px;
-  margin: 10px;
-  transition: transform 0.3s;
-}
-
-.vehicle-card:hover {
-  transform: scale(1.05);
-}
-
-.vehicle-card img {
-  width: 150px;
-  height: 150px;
-  object-fit: cover;
-  border-radius: 8px;
-}
-
-.vehicle-details img {
-  width: 300px;
-  height: 300px;
-  object-fit: cover;
-  margin-bottom: 20px;
-}
-
-.filters label {
-  margin-right: 10px;
-}
-
-.pagination button {
-  padding: 5px 10px;
-  margin: 10px;
   background-color: #007bff;
   color: white;
   border: none;
   border-radius: 5px;
-  cursor: pointer;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
 }
 
-.pagination button:disabled {
-  background-color: #ddd;
+.back-link:hover {
+  background-color: #0056b3;
+}
+
+@media (min-width: 768px) {
+  .col-md-3 {
+    width: 23% !important;
+  }
+}
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap');
+
+.card-wrapper {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+img {
+  width: 100%;
+  display: block;
+}
+
+.img-display {
+  overflow: hidden;
+}
+
+.img-showcase {
+  display: flex;
+  width: 100%;
+  transition: all 0.5s ease;
+}
+
+.img-showcase img {
+  min-width: 100%;
+}
+
+.img-select {
+  display: flex;
+}
+
+.img-item {
+  margin: 0.3rem;
+}
+
+.img-item:nth-child(1),
+.img-item:nth-child(2),
+.img-item:nth-child(3) {
+  margin-right: 0;
+}
+
+.img-item:hover {
+  opacity: 0.8;
+}
+
+.car-content {
+  padding: 2rem 1rem;
+}
+
+.car-title {
+  font-size: 3rem;
+  text-transform: capitalize;
+  font-weight: 700;
+  position: relative;
+  color: #12263a;
+  margin: 1rem 0;
+}
+
+.car-title::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 4px;
+  width: 80px;
+  background: #12263a;
+}
+
+.car-link {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 0.9rem;
+  display: inline-block;
+  margin-bottom: 0.5rem;
+  background: #256eff;
+  color: #fff;
+  padding: 0 0.3rem;
+  transition: all 0.5s ease;
+}
+
+.car-link:hover {
+  opacity: 0.9;
+}
+
+.car-rating {
+  color: #ffc107;
+}
+
+.car-rating span {
+  font-weight: 600;
+  color: #252525;
+}
+
+.car-price {
+  margin: 1rem 0;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.car-price span {
+  font-weight: 400;
+}
+
+.last-price span {
+  color: #f64749;
+  text-decoration: line-through;
+}
+
+.new-price span {
+  color: #256eff;
+}
+
+.car-detail h2 {
+  text-transform: capitalize;
+  color: #12263a;
+  padding-bottom: 0.6rem;
+}
+
+.car-detail p {
+  font-size: 0.9rem;
+  padding: 0.3rem;
+  opacity: 0.8;
+}
+
+.car-detail ul {
+  margin: 1rem 0;
+  font-size: 0.9rem;
+}
+
+.car-detail ul li {
+  margin: 0;
+  list-style: none;
+  background: url(https://fadzrinmadu.github.io/hosted-assets/product-detail-page-design-with-image-slider-html-css-and-javascript/checked.png) left center no-repeat;
+  background-size: 18px;
+  padding-left: 1.7rem;
+  margin: 0.4rem 0;
+  font-weight: 600;
+  opacity: 0.9;
+}
+
+.car-detail ul li span {
+  font-weight: 400;
+}
+
+.social-links {
+  display: flex;
+  align-items: center;
+}
+
+.social-links a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  color: #000;
+  border: 1px solid #000;
+  margin: 0 0.2rem;
+  border-radius: 50%;
+  text-decoration: none;
+  font-size: 0.8rem;
+  transition: all 0.5s ease;
+}
+
+.social-links a:hover {
+  background: #000;
+  border-color: transparent;
+  color: #fff;
+}
+
+@media screen and (min-width: 992px) {
+  .card-car-details {
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1.5rem;
+    top: 50x !important;
+  }
+
+  .card-wrapper {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .car-imgs {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .car-content {
+    padding-top: 0;
+  }
 }

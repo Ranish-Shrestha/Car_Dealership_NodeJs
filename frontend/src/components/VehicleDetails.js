@@ -73,7 +73,7 @@ const VehicleDetails = ({ vehicles }) => {
         </div>
         <div className="car-content">
           <h2 className="car-title">{vehicle.name}</h2>
-          <a href={vehicle.image} className="car-link">Visit Store</a>
+          <Link to="/" className="car-link">Back to List</Link>
           <div className="car-rating">
             <i className="fas fa-star"></i>
             <i className="fas fa-star"></i>

@@ -57,9 +57,9 @@ function VehicleList() {
   };
 
   return (
-    <div className="vehicle-list">
-      <h1>Car Dealership</h1>
-      <div className="filters">
+    <div className="vehicle-list container mt-5">
+      <h1 className="text-center mb-4">Car Dealership</h1>
+      <div className="filters mb-4">
         <label>
           Min Price:
           <input
@@ -69,7 +69,7 @@ function VehicleList() {
             onChange={handleFilterChange}
           />
         </label>
-        <label>
+        <label className='ml-2'>
           Max Price:
           <input
             type="number"
@@ -78,7 +78,7 @@ function VehicleList() {
             onChange={handleFilterChange}
           />
         </label>
-        <label>
+        <label className='ml-2'>
           Max KMs:
           <input
             type="number"
@@ -86,12 +86,12 @@ function VehicleList() {
             value={filter.maxKms === Infinity ? '' : filter.maxKms}
             onChange={handleFilterChange}
           />
-        </label>
-        <Link to="/add-car" className="btn btn-primary">Add Car</Link>
+        </label><br></br>
+        <Link to="/add-car" className="btn addcar">Add Car</Link>
       </div>
 
       {filteredVehicles.length > 0 ? (
-        <div className="vehicle-grid">
+        <div className="vehicle-grid mt-3">
           {vehiclesToDisplay.map((vehicle) => (
             <div key={vehicle.id} className="vehicle-card">
               <img src={vehicle.images[0] || 'default-image.jpg'} alt={vehicle.make} />

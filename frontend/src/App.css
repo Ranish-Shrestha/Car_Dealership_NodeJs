@@ -339,6 +339,48 @@ img {
   color: #fff;
 }
 
+.addcar {
+  background: #4CAF50;
+  border: none;
+  color: #fff;
+}
+.addcar:hover {
+   background: #2bc430;
+   color: #fff;
+}
+
+.add-car {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.add-car h1 {
+  color: #343a40;
+}
+
+.add-car .form-label {
+  font-weight: bold;
+}
+
+.add-car .btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.add-car .btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #004085;
+}
+
+.image-preview img {
+  margin-top: 10px;
+  border: 1px solid #ddd;
+  padding: 5px;
+  border-radius: 4px;
+}
+
 @media screen and (min-width: 992px) {
   .card-car-details {
     position: relative;

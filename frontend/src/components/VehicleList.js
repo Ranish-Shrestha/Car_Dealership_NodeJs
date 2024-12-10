@@ -87,6 +87,7 @@ function VehicleList() {
             onChange={handleFilterChange}
           />
         </label>
+        <Link to="/add-car" className="btn btn-primary">Add Car</Link>
       </div>
 
       {filteredVehicles.length > 0 ? (

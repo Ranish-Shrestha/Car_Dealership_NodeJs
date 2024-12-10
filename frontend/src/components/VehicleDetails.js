@@ -68,7 +68,7 @@ const VehicleDetails = () => {
           <div className="img-display">
             <div className="img-showcase">
               {vehicle.images && vehicle.images.map((image, index) => (
-                <img key={index} src={image} className="img-fluid" alt={`Vehicle Image ${index + 1}`} />
+                <img src={image} className="img-fluid" alt={`${vehicle.make} ${vehicle.model}`} />
               ))}
             </div>
           </div>
@@ -113,19 +113,19 @@ const VehicleDetails = () => {
 
           <div className="social-links">
             <p>Share At:</p>
-            <a href="#">
+            <a href={vehicle.description}>
               <i className="fab fa-facebook-f"></i>
             </a>
-            <a href="#">
+            <a href={vehicle.description}>
               <i className="fab fa-twitter"></i>
             </a>
-            <a href="#">
+            <a href={vehicle.description}>
               <i className="fab fa-instagram"></i>
             </a>
-            <a href="#">
+            <a href={vehicle.description}>
               <i className="fab fa-whatsapp"></i>
             </a>
-            <a href="#">
+            <a href={vehicle.description}>
               <i className="fab fa-pinterest"></i>
             </a>
           </div>

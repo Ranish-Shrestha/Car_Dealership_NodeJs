@@ -78,6 +78,9 @@ const VehicleDetails = () => {
       setError(err.message); // Set error message
     }
   };
+  const handleEdit = () => {
+    navigate(`/vehicle/${id}/edit`);
+  };
 
   if (loading) return <p>Loading vehicle details...</p>;
   if (error) return <p>Error: {error}</p>;
@@ -116,9 +119,6 @@ const VehicleDetails = () => {
         </div>
         <div className="car-content">
           <h2 className="car-title">{vehicle.make}</h2>
-          <Link to="/" className="car-link">
-            Back to List
-          </Link>
           <div className="car-rating">
             <i className="fas fa-star"></i>
             <i className="fas fa-star"></i>
@@ -162,19 +162,19 @@ const VehicleDetails = () => {
 
           <div className="social-links">
             <p>Share At:</p>
-            <a href={vehicle.description}>
+            <a href="javascript:void(0)">
               <i className="fab fa-facebook-f"></i>
             </a>
-            <a href={vehicle.description}>
+            <a href="javascript:void(0)">
               <i className="fab fa-twitter"></i>
             </a>
-            <a href={vehicle.description}>
+            <a href="javascript:void(0)">
               <i className="fab fa-instagram"></i>
             </a>
-            <a href={vehicle.description}>
+            <a href="javascript:void(0)">
               <i className="fab fa-whatsapp"></i>
             </a>
-            <a href={vehicle.description}>
+            <a href="javascript:void(0)">
               <i className="fab fa-pinterest"></i>
             </a>
           </div>
@@ -185,6 +185,9 @@ const VehicleDetails = () => {
       </Link>
       <button onClick={handleDelete} className="btn btn-danger ml-2">
         Delete
+      </button>
+      <button onClick={handleEdit} className="btn addcar ml-2">
+        Edit
       </button>
     </div>
   );

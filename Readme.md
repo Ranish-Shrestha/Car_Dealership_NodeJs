@@ -1,8 +1,8 @@
 1. Project Overview
 This project aims to develop a web service for a car dealership, enabling clients to:
-•	View a list of cars available in stock.
-•	Filter vehicles based on price or kilometers (KMs).
-•	View vehicle details, including abstract and full information.
+-	View a list of cars available in stock.
+-	Filter vehicles based on price or kilometers (KMs).
+-	View vehicle details, including abstract and full information.
 
 The project has two primary components:
 a)	Back-End: RESTful web services using Node.js and MongoDB.

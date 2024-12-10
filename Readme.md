@@ -139,6 +139,13 @@ vin	String	Unique Vehicle Identification
 price	Number	Price of the vehicle
 images	Array	Array of image URLs
 
+
+Import seeddata.json file to MongoDB Compass:
+1.	Open MongoDB Compass
+2.	Start a connection
+3.	Navigate to Add Data and then to the Import JSON or CSV file to add seeddata.json
+
+
 9. Conclusion
 The Car Dealership API offers a robust and user-friendly solution for managing vehicle inventory efficiently. With endpoints for creating, retrieving, updating, and deleting vehicle records, this API simplifies data handling and supports seamless CRUD operations. By leveraging tools like Express, Mongoose, and MongoDB, the system ensures scalability, reliability, and maintainability.
 

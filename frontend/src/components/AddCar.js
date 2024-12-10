@@ -27,10 +27,25 @@ const AddCar = () => {
     }));
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    // Add logic to submit the new car data to your API
-    console.log('New car data:', car);
+    try {
+      const response = await fetch('http://localhost:4000/vehicles', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(car),
+      });
+      if (!response.ok) {
+        throw new Error('Failed to add car');
+      }
+      const data = await response.json();
+      console.log('Car added:', data);
+      // Optionally, redirect or update the UI to show the new car
+    } catch (error) {
+      console.error('Error adding car:', error);
+    }
   };
 
   return (

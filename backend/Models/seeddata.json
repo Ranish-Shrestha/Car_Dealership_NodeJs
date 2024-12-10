@@ -1,19 +1,8 @@
 [
   {
-    "make": "Audi A4",
-    "model": "A4",
-    "year": 2005,
-    "kms": "20000",
-    "price": "10000",
-    "vin": "127756779",
-    "images": [
-      "https://s.aolcdn.com/commerce/autodata/images/USB50AUC013B0101.jpg",
-      "https://s.aolcdn.com/commerce/autodata/images/USB50AUC013B0102.jpg",
-      "https://s.aolcdn.com/commerce/autodata/images/USB50AUC013B0104.jpg",
-      "https://s.aolcdn.com/commerce/autodata/images/USB50AUC013B0109.jpg"
-    ]
-  },
-  {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e5a"
+    },
     "make": "BMW 3 Series",
     "model": "3 Series",
     "year": 2005,
@@ -28,48 +17,9 @@
     ]
   },
   {
-    "make": "Honda Civic",
-    "model": "Civic",
-    "year": 2005,
-    "kms": "25000",
-    "price": "8000",
-    "vin": "9876543220",
-    "images": [
-      "https://www.motortrend.com/uploads/sites/5/2005/02/112_05_chicago_civicsi08_z.jpg?w=768&width=768&q=75&format=webp",
-      "https://www.motortrend.com/uploads/sites/5/2005/02/112_05_chicago_civicsi10_z.jpg?w=768&width=768&q=75&format=webp",
-      "https://www.motortrend.com/uploads/sites/5/2005/02/112_05_chicago_civicsi04_z.jpg?w=768&width=768&q=75&format=webp",
-      "https://www.motortrend.com/uploads/sites/5/2005/02/112_05_chicago_civicsi02_z.jpg?w=768&width=768&q=75&format=webp"
-    ]
-  },
-  {
-    "make": "Toyota Camry",
-    "model": "Camry",
-    "year": 2005,
-    "kms": "35000",
-    "price": "9500",
-    "vin": "5432109876",
-    "images": [
-      "https://tdrpmimages.azureedge.net/photos/202402-1223-0446/bff0f06e-4960-419c-8538-62c37a4170d3.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/202402-1223-0446/f9640e29-fa44-4035-b2ad-402d09a10f55.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/202402-1223-0446/e450e9b4-23a9-4594-925c-24ccd1dfa81a.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/202402-1223-0446/c6e3f153-db83-40c4-82c7-1b350497cf78.jpg-1024x786"
-    ]
-  },
-  {
-    "make": "Ford Mustang",
-    "model": "Mustang",
-    "year": 2005,
-    "kms": "15000",
-    "price": "11500",
-    "vin": "1357924780",
-    "images": [
-      "https://tdrpmimages.azureedge.net/photos/import/202403/2020/0321/4d685df9-d924-490f-ab81-0dfdfa99de5e.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202403/2020/0321/7d8dd664-04db-4988-ba02-5f94da5b38da.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202403/2020/0321/ba92d707-9036-4e2a-b8bb-1b3788dc5a88.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202403/2020/0321/1a8f4c4d-9187-4cd1-ba04-f1eed6f67099.jpg-1024x786"
-    ]
-  },
-  {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e5e"
+    },
     "make": "Chevrolet Impala",
     "model": "Impala",
     "year": 2005,
@@ -84,20 +34,9 @@
     ]
   },
   {
-    "make": "Nissan Altima",
-    "model": "Altima",
-    "year": 2005,
-    "kms": "28000",
-    "price": "9000",
-    "vin": "6789054321",
-    "images": [
-      "https://tdrpmimages.azureedge.net/photos/import/202402/0913/3436/06ff6ac3-f795-4838-96f9-c73e6eeed2ab.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202402/0913/3436/fe500450-6578-4d08-a513-e77f1973e193.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202402/0913/3436/05ddb76a-7c77-4b88-a685-53a2d16d785c.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202402/0913/3436/70a452b0-64f8-415d-952b-55f0f80275ee.jpg-1024x786"
-    ]
-  },
-  {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e60"
+    },
     "make": "Volkswagen Golf",
     "model": "Golf",
     "year": 2005,
@@ -112,6 +51,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e61"
+    },
     "make": "Mercedes-Benz C-Class",
     "model": "C-Class",
     "year": 2005,
@@ -126,6 +68,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e62"
+    },
     "make": "Subaru Outback",
     "model": "Outback",
     "year": 2005,
@@ -140,34 +85,9 @@
     ]
   },
   {
-    "make": "Audi A4",
-    "model": "Sedan",
-    "year": 2006,
-    "kms": "25000",
-    "price": "8500",
-    "vin": "WAUAF78E86A123456",
-    "images": [
-      "https://s.aolcdn.com/commerce/autodata/images/USB60AUC015A0101.jpg",
-      "https://s.aolcdn.com/commerce/autodata/images/USB60AUC015A0102.jpg",
-      "https://s.aolcdn.com/commerce/autodata/images/USB60AUC015A0109.jpg",
-      "https://s.aolcdn.com/commerce/autodata/images/USB60AUC015A0113.jpg"
-    ]
-  },
-  {
-    "make": "Honda Civic",
-    "model": "Coupe",
-    "year": 2006,
-    "kms": "35000",
-    "price": "7000",
-    "vin": "2HGFG11896H123456",
-    "images": [
-      "https://tdrpmimages.azureedge.net/photos/import/202403/2115/5315/dabb038a-63f9-412a-868f-b0254d077e3c.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202403/2115/5315/537dde94-6c3c-4519-8b5b-5e1c1bedc54f.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202403/2115/5315/15c89175-e6cb-4a2c-8684-7c9928ee9bc4.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202403/2115/5315/cff4fc16-931e-4c6d-971f-3d1349b4da22.jpg-1024x786"
-    ]
-  },
-  {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e65"
+    },
     "make": "Toyota Camry",
     "model": "Sedan",
     "year": 2006,
@@ -182,6 +102,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e66"
+    },
     "make": "Chevrolet Impala",
     "model": "Sedan",
     "year": 2006,
@@ -196,6 +119,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e67"
+    },
     "make": "Ford Mustang",
     "model": "Coupe",
     "year": 2006,
@@ -210,6 +136,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e68"
+    },
     "make": "Nissan Altima",
     "model": "Sedan",
     "year": 2006,
@@ -224,6 +153,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e69"
+    },
     "make": "BMW 3 Series",
     "model": "Sedan",
     "year": 2006,
@@ -238,20 +170,9 @@
     ]
   },
   {
-    "make": "Volkswagen Jetta",
-    "model": "Sedan",
-    "year": 2006,
-    "kms": "32000",
-    "price": "5800",
-    "vin": "3VWSF71K36M123456",
-    "images": [
-      "https://media.ed.edmunds-media.com/volkswagen/jetta/2006/evox/2006_volkswagen_jetta_sedan_gli_fqn_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/volkswagen/jetta/2006/evox/2006_volkswagen_jetta_sedan_25_en_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/volkswagen/jetta/2006/evox/2006_volkswagen_jetta_sedan_gli_wh_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/volkswagen/jetta/2006/evox/2006_volkswagen_jetta_sedan_gli_ca_evox_1_1280x855.jpg"
-    ]
-  },
-  {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e6b"
+    },
     "make": "Hyundai Sonata",
     "model": "Sedan",
     "year": 2006,
@@ -266,6 +187,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e6c"
+    },
     "make": "Mercedes-Benz C-Class",
     "model": "Sedan",
     "year": 2006,
@@ -280,6 +204,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e6d"
+    },
     "make": "Chevrolet Aveo",
     "model": "LS",
     "year": 2004,
@@ -294,6 +221,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e6e"
+    },
     "make": "Toyota Camry",
     "model": "LE",
     "year": 2004,
@@ -308,6 +238,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e6f"
+    },
     "make": "Honda Accord",
     "model": "LX",
     "year": 2004,
@@ -322,6 +255,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e70"
+    },
     "make": "Nissan Sentra",
     "model": "1.8 S",
     "year": 2004,
@@ -336,20 +272,9 @@
     ]
   },
   {
-    "make": "Ford Focus",
-    "model": "SE",
-    "year": 2004,
-    "kms": "263387",
-    "price": "4495",
-    "vin": "1FAFP34314W125468",
-    "images": [
-      "https://www.edmunds.com/assets/m/for-sale/12-3fafp31n15r124146/img-2-960x.jpg",
-      "https://www.edmunds.com/assets/m/for-sale/12-3fafp31n15r124146/img-3-960x.jpg",
-      "https://www.edmunds.com/assets/m/for-sale/12-3fafp31n15r124146/img-4-960x.jpg",
-      "https://www.edmunds.com/assets/m/for-sale/12-3fafp31n15r124146/img-5-960x.jpg"
-    ]
-  },
-  {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e72"
+    },
     "make": "Chevrolet Malibu",
     "model": "LS",
     "year": 2004,
@@ -364,6 +289,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e73"
+    },
     "make": "Volkswagen Jetta",
     "model": "GLS",
     "year": 2004,
@@ -378,6 +306,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e74"
+    },
     "make": "Hyundai Elantra",
     "model": "GLS",
     "year": 2004,
@@ -392,6 +323,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e75"
+    },
     "make": "Mazda MAZDA3",
     "model": "s",
     "year": 2004,
@@ -406,6 +340,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e76"
+    },
     "make": "Chrysler PT Cruiser",
     "model": "Base",
     "year": 2004,
@@ -420,6 +357,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e77"
+    },
     "make": "Toyota Camry",
     "model": "Camry",
     "year": 2007,
@@ -434,20 +374,9 @@
     ]
   },
   {
-    "make": "Honda Accord",
-    "model": "Accord",
-    "year": 2007,
-    "kms": "30000",
-    "price": "9500",
-    "vin": "1HGCM82633A123457",
-    "images": [
-      "https://tdrpmimages.azureedge.net/photos/import/202312/1521/2514/f74cfa36-7e24-4ec6-8c49-c95e50acc135.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202312/0119/5722/393b0a68-e429-495b-a94d-f01f529b5d44.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202312/0119/5722/1ac51ef6-e5e3-43f5-b24b-9839d1c537d0.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202312/0119/5722/f1189e9f-07b3-4d1a-9c53-988020b4194f.jpg-1024x786"
-    ]
-  },
-  {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e79"
+    },
     "make": "Nissan Altima",
     "model": "Altima",
     "year": 2007,
@@ -462,6 +391,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e7a"
+    },
     "make": "Chevrolet Malibu",
     "model": "Malibu",
     "year": 2007,
@@ -476,6 +408,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e7b"
+    },
     "make": "Ford Focus",
     "model": "Focus",
     "year": 2007,
@@ -490,6 +425,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e7c"
+    },
     "make": "Volkswagen Jetta",
     "model": "Jetta",
     "year": 2007,
@@ -504,6 +442,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e7d"
+    },
     "make": "BMW 3 Series",
     "model": "3 Series",
     "year": 2007,
@@ -518,6 +459,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e7e"
+    },
     "make": "Mercedes-Benz C-Class",
     "model": "C-Class",
     "year": 2007,
@@ -532,20 +476,9 @@
     ]
   },
   {
-    "make": "Audi A4",
-    "model": "A4",
-    "year": 2007,
-    "kms": "19000",
-    "price": "10900",
-    "vin": "1HGCM82633A123464",
-    "images": [
-      "https://s.aolcdn.com/commerce/autodata/images/CAB70AUC016A0101.jpg",
-      "https://s.aolcdn.com/commerce/autodata/images/CAB70AUC016A0102.jpg",
-      "https://s.aolcdn.com/commerce/autodata/images/CAB70AUC016A0109.jpg",
-      "https://s.aolcdn.com/commerce/autodata/images/CAB70AUC016A0113.jpg"
-    ]
-  },
-  {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e80"
+    },
     "make": "Lexus ES",
     "model": "ES",
     "year": 2007,
@@ -560,20 +493,9 @@
     ]
   },
   {
-    "make": "Audi A4",
-    "model": "Sedan",
-    "year": 2008,
-    "kms": "20000",
-    "price": "10000",
-    "vin": "234567890",
-    "images": [
-      "https://s.aolcdn.com/commerce/autodata/images/USB80AUC015A0101.jpg",
-      "https://s.aolcdn.com/commerce/autodata/images/USB80AUC015A0102.jpg",
-      "https://s.aolcdn.com/commerce/autodata/images/USB80AUC015A0109.jpg",
-      "https://s.aolcdn.com/commerce/autodata/images/USB80AUC015A0113.jpg"
-    ]
-  },
-  {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e82"
+    },
     "make": "Honda Civic",
     "model": "Coupe",
     "year": 2008,
@@ -588,34 +510,9 @@
     ]
   },
   {
-    "make": "Toyota Camry",
-    "model": "Sedan",
-    "year": 2008,
-    "kms": "25000",
-    "price": "9500",
-    "vin": "2468135790",
-    "images": [
-      "https://tdrpmimages.azureedge.net/photos/import/202304/2815/3317/5cb237cc-5664-4c5d-8cfb-bf83b42e7db2.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202304/2815/3317/69a19316-2dda-4a7f-b4e2-3447cde211cc.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202304/2815/3317/3ee3c4c7-4a54-4fdc-ba8e-9de9e55a75c4.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202304/2815/3317/9eda2063-1bc3-4d47-9a6b-49bc56224286.jpg-1024x786"
-    ]
-  },
-  {
-    "make": "Ford Mustang",
-    "model": "Convertible",
-    "year": 2008,
-    "kms": "12000",
-    "price": "12000",
-    "vin": "1357929980",
-    "images": [
-      "https://tdrpmimages.azureedge.net/photos/import/202312/0802/3859/b9d2ee9b-d41f-4fe8-a5cb-12f4d579a698.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202312/0802/3859/52350163-7f59-42ea-a990-7155a861462d.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202312/0802/3859/0fe7ee4a-46df-40c5-b7b4-2496a17d024c.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202312/0802/3859/c300f424-1417-4396-a878-cdb55dce4a8e.jpg-1024x786"
-    ]
-  },
-  {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e85"
+    },
     "make": "Chevrolet Malibu",
     "model": "Sedan",
     "year": 2008,
@@ -630,62 +527,9 @@
     ]
   },
   {
-    "make": "Nissan Altima",
-    "model": "Sedan",
-    "year": 2008,
-    "kms": "22000",
-    "price": "8000",
-    "vin": "8024681359",
-    "images": [
-      "https://media.ed.edmunds-media.com/nissan/altima/2008/evox/2008_nissan_altima_sedan_25-s_fqh_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/nissan/altima/2008/evox/2008_nissan_altima_sedan_25-s_rqn_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/nissan/altima/2008/evox/2008_nissan_altima_sedan_25-s_fs_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/nissan/altima/2008/evox/2008_nissan_altima_sedan_25-s_rst_evox_1_1280x855.jpg"
-    ]
-  },
-  {
-    "make": "BMW 3 Series",
-    "model": "Sedan",
-    "year": 2008,
-    "kms": "17000",
-    "price": "11500",
-    "vin": "4681359024",
-    "images": [
-      "https://tdrpmimages.azureedge.net/photos/import/202312/1217/3918/dcfebba5-bef2-40d5-8ce4-e8c5069e3105.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202312/1217/3918/f96db1b4-eefc-4159-9887-f4989a5a3d7c.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202312/1217/3918/89328650-6b89-4342-b2be-ae0d398bef4e.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202312/1217/3918/d5f03aa4-d4e3-432a-9d70-142061082210.jpg-1024x786"
-    ]
-  },
-  {
-    "make": "Volkswagen Jetta",
-    "model": "Sedan",
-    "year": 2008,
-    "kms": "19000",
-    "price": "9000",
-    "vin": "0246813579",
-    "images": [
-      "https://tdrpmimages.azureedge.net/photos/import/202403/0122/5545/9456ede9-ceed-425f-8ac9-6a809d93abe0.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202403/0122/5545/bd289363-861a-4577-a9dd-44fd41365dff.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202403/0122/5545/3a9897b6-fa50-442c-9fa6-e623516be742.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202403/0122/5545/b07e20e6-18de-4f5a-aeb5-091f816328df.jpg-1024x786"
-    ]
-  },
-  {
-    "make": "Mercedes-Benz C-Class",
-    "model": "Sedan",
-    "year": 2008,
-    "kms": "16000",
-    "price": "13500",
-    "vin": "3579024681",
-    "images": [
-      "https://media.ed.edmunds-media.com/mercedes-benz/c-class/2008/evox/2008_mercedes-benz_c-class_sedan_c300-luxury_fqn_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/mercedes-benz/c-class/2008/evox/2008_mercedes-benz_c-class_sedan_c350-sport_en_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/mercedes-benz/c-class/2008/evox/2008_mercedes-benz_c-class_sedan_c300-luxury_wh_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/mercedes-benz/c-class/2008/evox/2008_mercedes-benz_c-class_sedan_c300-luxury_pdo_evox_1_1280x855.jpg"
-    ]
-  },
-  {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e8a"
+    },
     "make": "Hyundai Sonata",
     "model": "Sedan",
     "year": 2008,
@@ -700,62 +544,9 @@
     ]
   },
   {
-    "make": "Audi A4",
-    "model": "A4",
-    "year": 2009,
-    "kms": "20000",
-    "price": "12000",
-    "vin": "1934567890",
-    "images": [
-      "https://s.aolcdn.com/commerce/autodata/images/USB90AUC015A0109.jpg",
-      "https://s.aolcdn.com/commerce/autodata/images/USB90AUC015A0112.jpg",
-      "https://s.aolcdn.com/commerce/autodata/images/USB90AUC015A0113.jpg",
-      "https://s.aolcdn.com/commerce/autodata/images/USB90AUC015A0114.jpg"
-    ]
-  },
-  {
-    "make": "Honda Accord",
-    "model": "Accord",
-    "year": 2009,
-    "kms": "30000",
-    "price": "8500",
-    "vin": "7987654321",
-    "images": [
-      "https://media.ed.edmunds-media.com/honda/accord/2009/evox/2009_honda_accord_sedan_ex-l_fqn_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/honda/accord/2009/evox/2009_honda_accord_sedan_lx-p_en_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/honda/accord/2009/evox/2009_honda_accord_sedan_ex-l_ca_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/honda/accord/2009/evox/2009_honda_accord_sedan_ex_pdo_evox_1_1280x855.jpg"
-    ]
-  },
-  {
-    "make": "Toyota Camry",
-    "model": "Camry",
-    "year": 2009,
-    "kms": "25000",
-    "price": "9500",
-    "vin": "13579296680",
-    "images": [
-      "https://media.ed.edmunds-media.com/toyota/camry/2009/evox/2009_toyota_camry_sedan_le_fqn_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/toyota/camry/2009/evox/2009_toyota_camry_sedan_le_en_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/toyota/camry/2009/evox/2009_toyota_camry_sedan_le_wh_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/toyota/camry/2009/evox/2009_toyota_camry_sedan_se-v6_pdo_evox_1_1280x855.jpg"
-    ]
-  },
-  {
-    "make": "Nissan Altima",
-    "model": "Altima",
-    "year": 2009,
-    "kms": "28000",
-    "price": "7800",
-    "vin": "2468017579",
-    "images": [
-      "https://media.ed.edmunds-media.com/nissan/altima/2009/evox/2009_nissan_altima_sedan_25-s_fqn_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/nissan/altima/2009/evox/2009_nissan_altima_sedan_25-s_en_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/nissan/altima/2009/evox/2009_nissan_altima_sedan_25-s_wh_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/nissan/altima/2009/evox/2009_nissan_altima_sedan_25-s_ca_evox_1_1280x855.jpg"
-    ]
-  },
-  {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e8f"
+    },
     "make": "Chevrolet Malibu",
     "model": "Malibu",
     "year": 2009,
@@ -770,6 +561,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e90"
+    },
     "make": "Ford Focus",
     "model": "Focus",
     "year": 2009,
@@ -784,90 +578,9 @@
     ]
   },
   {
-    "make": "Volkswagen Jetta",
-    "model": "Jetta",
-    "year": 2009,
-    "kms": "27000",
-    "price": "6200",
-    "vin": "5792468013",
-    "images": [
-      "https://media.ed.edmunds-media.com/volkswagen/jetta/2009/evox/2009_volkswagen_jetta_sedan_se_fqn_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/volkswagen/jetta/2009/evox/2009_volkswagen_jetta_sedan_se_en_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/volkswagen/jetta/2009/evox/2009_volkswagen_jetta_sedan_se-pzev_wh_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/volkswagen/jetta/2009/evox/2009_volkswagen_jetta_sedan_se-pzev_pdo_evox_1_1280x855.jpg"
-    ]
-  },
-  {
-    "make": "BMW 3 Series",
-    "model": "3 Series",
-    "year": 2009,
-    "kms": "18000",
-    "price": "11500",
-    "vin": "6801357924",
-    "images": [
-      "https://media.ed.edmunds-media.com/bmw/3-series/2009/evox/2009_bmw_3-series_coupe_328i_fqn_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/bmw/3-series/2009/evox/2009_bmw_3-series_coupe_335i_en_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/bmw/3-series/2009/evox/2009_bmw_3-series_coupe_335i_wh_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/bmw/3-series/2009/evox/2009_bmw_3-series_coupe_335i_ca_evox_1_1280x855.jpg"
-    ]
-  },
-  {
-    "make": "Mercedes-Benz C-Class",
-    "model": "C-Class",
-    "year": 2009,
-    "kms": "24000",
-    "price": "10800",
-    "vin": "7924680135",
-    "images": [
-      "https://www.edmunds.com/assets/m/for-sale/6c-wddgf81x48f059204/img-1-960x.jpg",
-      "https://www.edmunds.com/assets/m/for-sale/6c-wddgf81x48f059204/img-3-960x.jpg",
-      "https://www.edmunds.com/assets/m/for-sale/6c-wddgf81x48f059204/img-4-960x.jpg",
-      "https://www.edmunds.com/assets/m/for-sale/6c-wddgf81x48f059204/img-5-960x.jpg"
-    ]
-  },
-  {
-    "make": "Lexus ES",
-    "model": "ES",
-    "year": 2009,
-    "kms": "21000",
-    "price": "9900",
-    "vin": "9013579246",
-    "images": [
-      "https://media.ed.edmunds-media.com/lexus/es-350/2009/evox/2009_lexus_es-350_sedan_base_fqn_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/lexus/es-350/2009/evox/2009_lexus_es-350_sedan_base_en_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/lexus/es-350/2009/evox/2009_lexus_es-350_sedan_base_ca_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/lexus/es-350/2009/evox/2009_lexus_es-350_sedan_base_oh_evox_1_1280x855.jpg"
-    ]
-  },
-  {
-    "make": "Audi A4",
-    "model": "A4",
-    "year": 2010,
-    "kms": "100000",
-    "price": "8995",
-    "vin": "WAUFFAFL7AN036984",
-    "images": [
-      "https://s.aolcdn.com/commerce/autodata/images/USC00AUC017A1109.jpg",
-      "https://s.aolcdn.com/commerce/autodata/images/USC00AUC017A1112.jpg",
-      "https://s.aolcdn.com/commerce/autodata/images/USC00AUC017A1113.jpg",
-      "https://s.aolcdn.com/commerce/autodata/images/USC00AUC017A1133.jpg"
-    ]
-  },
-  {
-    "make": "BMW 5 Series",
-    "model": "5 Series",
-    "year": 2010,
-    "kms": "90000",
-    "price": "9999",
-    "vin": "WBANU5C50AC363335",
-    "images": [
-      "https://www.edmunds.com/assets/m/for-sale/96-wbanv1c5xac157696/img-1-960x.jpg",
-      "https://www.edmunds.com/assets/m/for-sale/96-wbanv1c5xac157696/img-2-960x.jpg",
-      "https://www.edmunds.com/assets/m/for-sale/96-wbanv1c5xac157696/img-3-960x.jpg",
-      "https://www.edmunds.com/assets/m/for-sale/96-wbanv1c5xac157696/img-4-960x.jpg"
-    ]
-  },
-  {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e97"
+    },
     "make": "Chevrolet Equinox",
     "model": "Equinox",
     "year": 2010,
@@ -882,6 +595,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e98"
+    },
     "make": "Ford Fusion",
     "model": "Fusion",
     "year": 2010,
@@ -896,6 +612,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e99"
+    },
     "make": "Honda CR-V",
     "model": "CR-V",
     "year": 2010,
@@ -910,6 +629,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e9a"
+    },
     "make": "Audi A4",
     "model": "A4",
     "year": 2011,
@@ -924,6 +646,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58e9b"
+    },
     "make": "BMW 3 Series",
     "model": "3 Series",
     "year": 2011,
@@ -938,62 +663,9 @@
     ]
   },
   {
-    "make": "Mercedes-Benz C-Class",
-    "model": "C-Class",
-    "year": 2011,
-    "kms": "20000",
-    "price": "13500",
-    "vin": "4567890123",
-    "images": [
-      "https://www.edmunds.com/assets/m/for-sale/32-wddgf8bb7br183668/img-1-960x.jpg",
-      "https://www.edmunds.com/assets/m/for-sale/32-wddgf8bb7br183668/img-2-960x.jpg",
-      "https://www.edmunds.com/assets/m/for-sale/32-wddgf8bb7br183668/img-4-960x.jpg",
-      "https://www.edmunds.com/assets/m/for-sale/32-wddgf8bb7br183668/img-5-960x.jpg"
-    ]
-  },
-  {
-    "make": "Toyota Camry",
-    "model": "Camry",
-    "year": 2011,
-    "kms": "35000",
-    "price": "10500",
-    "vin": "2345678901",
-    "images": [
-      "https://tdrpmimages.azureedge.net/photos/import/202403/1620/2019/90e25307-463d-422b-8ef0-9a2212d21c4e.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202403/1620/2019/313aceca-6dee-4bae-8fb8-bd7aa963594c.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202403/1620/2019/3e79a77c-2ec4-4d09-b043-2d9003c63336.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202403/1620/2019/f7c645f5-88e2-4ce7-8e81-f6a1363e2e70.jpg-1024x786"
-    ]
-  },
-  {
-    "make": "Honda Accord",
-    "model": "Accord",
-    "year": 2011,
-    "kms": "28000",
-    "price": "11000",
-    "vin": "3456789012",
-    "images": [
-      "https://media.ed.edmunds-media.com/honda/accord/2011/evox/2011_honda_accord_sedan_lx-p_fqn_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/honda/accord/2011/evox/2011_honda_accord_sedan_se_en_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/honda/accord/2011/evox/2011_honda_accord_sedan_lx-p_ca_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/honda/accord/2011/evox/2011_honda_accord_sedan_lx-p_pdo_evox_1_1280x855.jpg"
-    ]
-  },
-  {
-    "make": "Audi A4",
-    "model": "A4",
-    "year": 2012,
-    "kms": "25456",
-    "price": "15999",
-    "vin": "WAUFFAFL0CN012345",
-    "images": [
-      "https://tdrpmimages.azureedge.net/photos/import/202403/2715/4117/4e3ebdb6-c7b0-41ce-8138-6610bb05f54a.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202403/2715/4117/4e3ebdb6-c7b0-41ce-8138-6610bb05f54a.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202403/2715/4117/edad87c6-26eb-4abf-8ec2-49257b151af3.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202403/2715/4117/edad87c6-26eb-4abf-8ec2-49257b151af3.jpg-1024x786"
-    ]
-  },
-  {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58ea0"
+    },
     "make": "BMW X5",
     "model": "X5",
     "year": 2012,
@@ -1008,6 +680,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58ea1"
+    },
     "make": "Honda Civic",
     "model": "Civic",
     "year": 2012,
@@ -1022,20 +697,9 @@
     ]
   },
   {
-    "make": "Toyota Camry",
-    "model": "Camry",
-    "year": 2012,
-    "kms": "29301",
-    "price": "10995",
-    "vin": "4T1BF1FK2CU123456",
-    "images": [
-      "https://tdrpmimages.azureedge.net/photos/import/202403/2115/1107/87ee5466-2843-439e-8707-d0dbaf709302.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202403/2115/1107/87ee5466-2843-439e-8707-d0dbaf709302.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202403/2115/1107/87ee5466-2843-439e-8707-d0dbaf709302.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202403/2115/1107/87ee5466-2843-439e-8707-d0dbaf709302.jpg-1024x786"
-    ]
-  },
-  {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58ea3"
+    },
     "make": "Chevrolet Malibu",
     "model": "Malibu",
     "year": 2012,
@@ -1050,6 +714,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58ea4"
+    },
     "make": "Audi A4",
     "model": "Sedan",
     "year": 2013,
@@ -1064,20 +731,9 @@
     ]
   },
   {
-    "make": "BMW 3 Series",
-    "model": "Sedan",
-    "year": 2013,
-    "kms": "30000",
-    "price": "22000",
-    "vin": "1H96M82633A123456",
-    "images": [
-      "https://media.ed.edmunds-media.com/bmw/3-series/2013/evox/2013_bmw_3-series_convertible_328i_fqh_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/bmw/3-series/2013/evox/2013_bmw_3-series_convertible_328i_fs_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/bmw/3-series/2013/evox/2013_bmw_3-series_convertible_328i_pr_evox_1_1280x855.jpg",
-      "https://media.ed.edmunds-media.com/bmw/3-series/2013/evox/2013_bmw_3-series_convertible_328i_rqh_evox_1_1280x855.jpg"
-    ]
-  },
-  {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58ea6"
+    },
     "make": "Mercedes-Benz C-Class",
     "model": "Sedan",
     "year": 2013,
@@ -1092,6 +748,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58ea7"
+    },
     "make": "Lexus IS",
     "model": "Sedan",
     "year": 2013,
@@ -1106,34 +765,9 @@
     ]
   },
   {
-    "make": "Acura TL",
-    "model": "Sedan",
-    "year": 2013,
-    "kms": "15000",
-    "price": "18000",
-    "vin": "1HGCM82633A199456",
-    "images": [
-      "https://tdrpmimages.azureedge.net/photos/import/202404/0218/2323/4af2168f-9d27-4a4e-ad63-49a512e9ed54.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202404/0218/2323/389e2cc0-ca68-4d42-abd2-ffae820ef574.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202404/0218/2323/8dd88f38-b6e8-4d1e-8bfe-5985f7da0e7c.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202404/0218/2323/05de5f4e-3b0e-4b4b-a78d-6dbd55937fc9.jpg-1024x786"
-    ]
-  },
-  {
-    "make": "Audi A3",
-    "model": "e-tron",
-    "year": 2014,
-    "kms": "28000",
-    "price": "16995",
-    "vin": "WAUJGAFM7EA000001",
-    "images": [
-      "https://tdrpmimages.azureedge.net/photos/import/202402/0718/4542/799d86d3-9a17-46f7-89f6-1ff3d261a7d0.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202402/0718/4542/eb1bb9c9-fbb3-43bb-81d6-d61ee98aafe1.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202402/0718/4542/5564d41a-ad1b-4862-b1c7-419daa0c3cf6.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202402/0718/4542/dfd08cee-4746-451c-a10b-9c8a3eed90cb.jpg-1024x786"
-    ]
-  },
-  {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58eaa"
+    },
     "make": "BMW 3 Series",
     "model": "Sedan",
     "year": 2014,
@@ -1148,20 +782,9 @@
     ]
   },
   {
-    "make": "Chevrolet Cruze",
-    "model": "Sedan",
-    "year": 2014,
-    "kms": "35200",
-    "price": "8995",
-    "vin": "1G1PC5SB2E7123000",
-    "images": [
-      "https://tdrpmimages.azureedge.net/photos/import/202403/2816/0047/66709ad8-2b22-4d8a-8487-ae0d25dc9b75.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202403/2816/0047/1b338d5a-6af6-469a-a26a-6253ab845a74.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202403/2816/0047/a5f58467-ead6-40de-ac85-6a297ae7766d.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202403/2816/0047/fc289e9e-70a8-408f-9db0-6bf8bf83bf39.jpg-1024x786"
-    ]
-  },
-  {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58eac"
+    },
     "make": "Ford Escape",
     "model": "SUV",
     "year": 2014,
@@ -1176,6 +799,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58ead"
+    },
     "make": "Honda Accord",
     "model": "Sedan",
     "year": 2014,
@@ -1190,6 +816,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58eae"
+    },
     "make": "Audi A4",
     "model": "A4",
     "year": 2015,
@@ -1204,6 +833,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58eaf"
+    },
     "make": "BMW X5",
     "model": "X5",
     "year": 2015,
@@ -1218,6 +850,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58eb0"
+    },
     "make": "Toyota Camry",
     "model": "Camry",
     "year": 2015,
@@ -1232,20 +867,9 @@
     ]
   },
   {
-    "make": "Honda CR-V",
-    "model": "CR-V",
-    "year": 2015,
-    "kms": "22000",
-    "price": "18000",
-    "vin": "4HGCM82633A123456",
-    "images": [
-      "https://tdrpmimages.azureedge.net/photos/import/202403/0204/0541/0d94ceaf-9cc1-42bb-ada6-4e7273ab720c.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202403/0204/0541/acca9a08-4052-42c8-bf92-9b92ee69fe9a.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202403/0204/0541/1131055d-c339-4b88-83aa-a6cc4ff828de.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202403/0204/0541/079334ad-29be-4bba-b66e-004c56e0be3f.jpg-1024x786"
-    ]
-  },
-  {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58eb2"
+    },
     "make": "Ford Mustang",
     "model": "Mustang",
     "year": 2015,
@@ -1260,6 +884,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58eb3"
+    },
     "make": "Audi A4",
     "model": "A4",
     "year": 2016,
@@ -1274,6 +901,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58eb4"
+    },
     "make": "BMW X5",
     "model": "X5",
     "year": 2016,
@@ -1288,20 +918,9 @@
     ]
   },
   {
-    "make": "Mercedes-Benz C-Class",
-    "model": "C-Class",
-    "year": 2016,
-    "kms": "20000",
-    "price": "25000",
-    "vin": "55SWF4JB7GU000003",
-    "images": [
-      "https://www.edmunds.com/assets/m/for-sale/40-55swf4kb9gu131839/img-3-960x.jpg",
-      "https://www.edmunds.com/assets/m/for-sale/40-55swf4kb9gu131839/img-2-960x.jpg",
-      "https://www.edmunds.com/assets/m/for-sale/40-55swf4kb9gu131839/img-4-960x.jpg",
-      "https://www.edmunds.com/assets/m/for-sale/40-55swf4kb9gu131839/img-5-960x.jpg"
-    ]
-  },
-  {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58eb6"
+    },
     "make": "Toyota Camry",
     "model": "Camry",
     "year": 2016,
@@ -1316,6 +935,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58eb7"
+    },
     "make": "Honda CR-V",
     "model": "CR-V",
     "year": 2016,
@@ -1330,6 +952,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58eb8"
+    },
     "make": "BMW 3 Series",
     "model": "320i",
     "year": 2017,
@@ -1344,6 +969,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58eb9"
+    },
     "make": "Audi A4",
     "model": "Premium",
     "year": 2017,
@@ -1358,6 +986,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58eba"
+    },
     "make": "Toyota Camry",
     "model": "SE",
     "year": 2017,
@@ -1372,6 +1003,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58ebb"
+    },
     "make": "Honda Accord",
     "model": "Sport",
     "year": 2017,
@@ -1386,6 +1020,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58ebc"
+    },
     "make": "Ford Mustang",
     "model": "EcoBoost",
     "year": 2017,
@@ -1400,6 +1037,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58ebd"
+    },
     "make": "Audi A4",
     "model": "Sedan",
     "year": 2018,
@@ -1414,6 +1054,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58ebe"
+    },
     "make": "BMW X5",
     "model": "SUV",
     "year": 2018,
@@ -1428,6 +1071,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58ebf"
+    },
     "make": "Mercedes-Benz C-Class",
     "model": "Coupe",
     "year": 2018,
@@ -1442,6 +1088,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58ec0"
+    },
     "make": "Toyota Camry",
     "model": "Sedan",
     "year": 2018,
@@ -1456,6 +1105,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58ec1"
+    },
     "make": "Honda Civic",
     "model": "Hatchback",
     "year": 2018,
@@ -1470,6 +1122,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58ec2"
+    },
     "make": "Audi A1",
     "model": "A1",
     "year": 2019,
@@ -1484,20 +1139,9 @@
     ]
   },
   {
-    "make": "BMW X3",
-    "model": "X3",
-    "year": 2019,
-    "kms": "20000",
-    "price": "30000",
-    "vin": "5UXTY3C52K123456",
-    "images": [
-      "https://tdrpmimages.azureedge.net/photos/import/202311/2717/4234/791873a4-1683-4ab9-a30c-c4d648f389e6.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202311/2717/4234/0f5552f2-b75f-4152-825d-1e5d5cf683ed.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202311/2717/4234/b037f41d-66d9-46c1-b8d8-b872f43a1280.jpg-1024x786",
-      "https://tdrpmimages.azureedge.net/photos/import/202311/2717/4234/05f10baf-b3ef-4a95-a2f5-51d432a7bb6b.jpg-1024x786"
-    ]
-  },
-  {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58ec4"
+    },
     "make": "Mercedes-Benz C-Class",
     "model": "C-Class",
     "year": 2019,
@@ -1512,6 +1156,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58ec5"
+    },
     "make": "Toyota Camry",
     "model": "Camry",
     "year": 2019,
@@ -1526,6 +1173,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58ec6"
+    },
     "make": "Honda CR-V",
     "model": "CR-V",
     "year": 2019,
@@ -1540,6 +1190,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58ec7"
+    },
     "make": "Audi A4",
     "model": "Sedan",
     "year": 2020,
@@ -1554,6 +1207,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58ec8"
+    },
     "make": "BMW X5",
     "model": "SUV",
     "year": 2020,
@@ -1568,6 +1224,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58ec9"
+    },
     "make": "Mercedes-Benz C-Class",
     "model": "Sedan",
     "year": 2020,
@@ -1582,6 +1241,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58eca"
+    },
     "make": "Toyota Camry",
     "model": "Sedan",
     "year": 2020,
@@ -1596,6 +1258,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58ecb"
+    },
     "make": "Honda CR-V",
     "model": "SUV",
     "year": 2020,
@@ -1610,6 +1275,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58ecc"
+    },
     "make": "Ford Mustang",
     "model": "Coupe",
     "year": 2020,
@@ -1624,6 +1292,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58ecd"
+    },
     "make": "Chevrolet Tahoe",
     "model": "SUV",
     "year": 2020,
@@ -1638,6 +1309,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58ece"
+    },
     "make": "Nissan Rogue",
     "model": "SUV",
     "year": 2020,
@@ -1652,6 +1326,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "6758a4862cfe8a6c16a58ecf"
+    },
     "make": "Volkswagen Golf",
     "model": "Hatchback",
     "year": 2020,

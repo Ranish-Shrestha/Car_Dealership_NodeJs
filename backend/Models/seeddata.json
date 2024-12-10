@@ -1,0 +1,1668 @@
+[
+  {
+    "make": "Audi A4",
+    "model": "A4",
+    "year": 2005,
+    "kms": "20000",
+    "price": "10000",
+    "vin": "127756779",
+    "images": [
+      "https://s.aolcdn.com/commerce/autodata/images/USB50AUC013B0101.jpg",
+      "https://s.aolcdn.com/commerce/autodata/images/USB50AUC013B0102.jpg",
+      "https://s.aolcdn.com/commerce/autodata/images/USB50AUC013B0104.jpg",
+      "https://s.aolcdn.com/commerce/autodata/images/USB50AUC013B0109.jpg"
+    ]
+  },
+  {
+    "make": "BMW 3 Series",
+    "model": "3 Series",
+    "year": 2005,
+    "kms": "30000",
+    "price": "12000",
+    "vin": "5987654321",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2005-bmw-3-series-325i-sedan-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2005-bmw-3-series-325i-sedan-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2005-bmw-3-series-325i-sedan-wheel-cap.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2005-bmw-3-series-325i-sedan-front-view.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Honda Civic",
+    "model": "Civic",
+    "year": 2005,
+    "kms": "25000",
+    "price": "8000",
+    "vin": "9876543220",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/5/2005/02/112_05_chicago_civicsi08_z.jpg?w=768&width=768&q=75&format=webp",
+      "https://www.motortrend.com/uploads/sites/5/2005/02/112_05_chicago_civicsi10_z.jpg?w=768&width=768&q=75&format=webp",
+      "https://www.motortrend.com/uploads/sites/5/2005/02/112_05_chicago_civicsi04_z.jpg?w=768&width=768&q=75&format=webp",
+      "https://www.motortrend.com/uploads/sites/5/2005/02/112_05_chicago_civicsi02_z.jpg?w=768&width=768&q=75&format=webp"
+    ]
+  },
+  {
+    "make": "Toyota Camry",
+    "model": "Camry",
+    "year": 2005,
+    "kms": "35000",
+    "price": "9500",
+    "vin": "5432109876",
+    "images": [
+      "https://tdrpmimages.azureedge.net/photos/202402-1223-0446/bff0f06e-4960-419c-8538-62c37a4170d3.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/202402-1223-0446/f9640e29-fa44-4035-b2ad-402d09a10f55.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/202402-1223-0446/e450e9b4-23a9-4594-925c-24ccd1dfa81a.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/202402-1223-0446/c6e3f153-db83-40c4-82c7-1b350497cf78.jpg-1024x786"
+    ]
+  },
+  {
+    "make": "Ford Mustang",
+    "model": "Mustang",
+    "year": 2005,
+    "kms": "15000",
+    "price": "11500",
+    "vin": "1357924780",
+    "images": [
+      "https://tdrpmimages.azureedge.net/photos/import/202403/2020/0321/4d685df9-d924-490f-ab81-0dfdfa99de5e.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/2020/0321/7d8dd664-04db-4988-ba02-5f94da5b38da.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/2020/0321/ba92d707-9036-4e2a-b8bb-1b3788dc5a88.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/2020/0321/1a8f4c4d-9187-4cd1-ba04-f1eed6f67099.jpg-1024x786"
+    ]
+  },
+  {
+    "make": "Chevrolet Impala",
+    "model": "Impala",
+    "year": 2005,
+    "kms": "40000",
+    "price": "7500",
+    "vin": "2468019579",
+    "images": [
+      "https://file.kelleybluebookimages.com/kbb/base/house/2005/2005-Chevrolet-Impala-FrontSide_CHIMP051_505x346.jpg?downsize=1000:*",
+      "https://file.kelleybluebookimages.com/kbb/base/house/2005/2005-Chevrolet-Impala-Side_CHIMP053_505x317.jpg?downsize=1000:*",
+      "https://file.kelleybluebookimages.com/kbb/base/house/2005/2005-Chevrolet-Impala-Dashboard_CHIMPINT0565_505x375.jpg?downsize=1000:*",
+      "https://file.kelleybluebookimages.com/kbb/base/house/2005/2005-Chevrolet-Impala-FrontRowSeats_CHIMPINT0550_505x375.jpg?downsize=1000:*"
+    ]
+  },
+  {
+    "make": "Nissan Altima",
+    "model": "Altima",
+    "year": 2005,
+    "kms": "28000",
+    "price": "9000",
+    "vin": "6789054321",
+    "images": [
+      "https://tdrpmimages.azureedge.net/photos/import/202402/0913/3436/06ff6ac3-f795-4838-96f9-c73e6eeed2ab.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202402/0913/3436/fe500450-6578-4d08-a513-e77f1973e193.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202402/0913/3436/05ddb76a-7c77-4b88-a685-53a2d16d785c.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202402/0913/3436/70a452b0-64f8-415d-952b-55f0f80275ee.jpg-1024x786"
+    ]
+  },
+  {
+    "make": "Volkswagen Golf",
+    "model": "Golf",
+    "year": 2005,
+    "kms": "22000",
+    "price": "7800",
+    "vin": "9012345678",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2005-volkswagen-gti-1.8-t-hatchback-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2005-volkswagen-gti-1.8-t-hatchback-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2005-volkswagen-gti-1.8-t-hatchback-dashboard.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2005-volkswagen-gti-1.8-t-hatchback-side-view.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz C-Class",
+    "model": "C-Class",
+    "year": 2005,
+    "kms": "32000",
+    "price": "13500",
+    "vin": "7890123456",
+    "images": [
+      "https://media.ed.edmunds-media.com/mercedes-benz/c-class/2005/oem/2005_mercedes-benz_c-class_sedan_c230-kompressor_fq_oem_2_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/c-class/2005/oem/2005_mercedes-benz_c-class_sedan_c240-luxury_fq_oem_2_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/c-class/2005/oem/2005_mercedes-benz_c-class_sedan_c240-luxury_fq_oem_3_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/c-class/2005/oem/2005_mercedes-benz_c-class_sedan_c230-kompressor_rq_oem_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Subaru Outback",
+    "model": "Outback",
+    "year": 2005,
+    "kms": "18000",
+    "price": "10200",
+    "vin": "0123456799",
+    "images": [
+      "https://media.ed.edmunds-media.com/subaru/outback/2005/oem/2005_subaru_outback_wagon_25-xt-limited_fq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/subaru/outback/2005/oem/2005_subaru_outback_wagon_25-xt-limited_fq_oem_2_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/subaru/outback/2005/oem/2005_subaru_outback_wagon_25-xt-limited_rq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/subaru/outback/2005/oem/2005_subaru_outback_wagon_25-xt-limited_f_oem_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Audi A4",
+    "model": "Sedan",
+    "year": 2006,
+    "kms": "25000",
+    "price": "8500",
+    "vin": "WAUAF78E86A123456",
+    "images": [
+      "https://s.aolcdn.com/commerce/autodata/images/USB60AUC015A0101.jpg",
+      "https://s.aolcdn.com/commerce/autodata/images/USB60AUC015A0102.jpg",
+      "https://s.aolcdn.com/commerce/autodata/images/USB60AUC015A0109.jpg",
+      "https://s.aolcdn.com/commerce/autodata/images/USB60AUC015A0113.jpg"
+    ]
+  },
+  {
+    "make": "Honda Civic",
+    "model": "Coupe",
+    "year": 2006,
+    "kms": "35000",
+    "price": "7000",
+    "vin": "2HGFG11896H123456",
+    "images": [
+      "https://tdrpmimages.azureedge.net/photos/import/202403/2115/5315/dabb038a-63f9-412a-868f-b0254d077e3c.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/2115/5315/537dde94-6c3c-4519-8b5b-5e1c1bedc54f.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/2115/5315/15c89175-e6cb-4a2c-8684-7c9928ee9bc4.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/2115/5315/cff4fc16-931e-4c6d-971f-3d1349b4da22.jpg-1024x786"
+    ]
+  },
+  {
+    "make": "Toyota Camry",
+    "model": "Sedan",
+    "year": 2006,
+    "kms": "40000",
+    "price": "6500",
+    "vin": "4T1BE32K46U123456",
+    "images": [
+      "https://toyotacanada.scene7.com/is/image/toyotacanada/2006_Toyota_Camry_LE_01?$Media-Large$",
+      "https://toyotacanada.scene7.com/is/image/toyotacanada/2006_Toyota_Camry_LE_02?$Media-Large$",
+      "https://toyotacanada.scene7.com/is/image/toyotacanada/2006_Toyota_Camry_LE_03?$Media-Large$",
+      "https://toyotacanada.scene7.com/is/image/toyotacanada/2006_Toyota_Camry_LE_04?$Media-Large$"
+    ]
+  },
+  {
+    "make": "Chevrolet Impala",
+    "model": "Sedan",
+    "year": 2006,
+    "kms": "30000",
+    "price": "5000",
+    "vin": "2G1WB58K569123456",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2006-chevrolet-impala-ls-sedan-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2006-chevrolet-impala-ls-sedan-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2006-chevrolet-impala-ls-sedan-dashboard.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2006-chevrolet-impala-ls-sedan-side-view.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Ford Mustang",
+    "model": "Coupe",
+    "year": 2006,
+    "kms": "20000",
+    "price": "9000",
+    "vin": "1ZVFT80N765123456",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2006-ford-mustang-gt-premium-coupe-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2006-ford-mustang-gt-premium-coupe-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2006-ford-mustang-gt-premium-coupe-dashboard.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2006-ford-mustang-gt-premium-coupe-front-view.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Nissan Altima",
+    "model": "Sedan",
+    "year": 2006,
+    "kms": "38000",
+    "price": "6200",
+    "vin": "1N4AL11D16C123456",
+    "images": [
+      "https://media.ed.edmunds-media.com/nissan/altima/2006/oem/2006_nissan_altima_sedan_35-se-r_fq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/nissan/altima/2006/oem/2006_nissan_altima_sedan_35-se-r_fq_oem_2_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/nissan/altima/2006/oem/2006_nissan_altima_sedan_35-se-r_fq_oem_3_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/nissan/altima/2006/oem/2006_nissan_altima_sedan_35-se-r_rq_oem_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "BMW 3 Series",
+    "model": "Sedan",
+    "year": 2006,
+    "kms": "22000",
+    "price": "10500",
+    "vin": "WBAVB13546K123456",
+    "images": [
+      "https://media.ed.edmunds-media.com/bmw/3-series/2006/oem/2006_bmw_3-series_sedan_330i_fq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/bmw/3-series/2006/oem/2006_bmw_3-series_sedan_330i_fq_oem_2_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/bmw/3-series/2006/oem/2006_bmw_3-series_sedan_330i_fq_oem_3_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/bmw/3-series/2006/oem/2006_bmw_3-series_sedan_330i_rq_oem_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Volkswagen Jetta",
+    "model": "Sedan",
+    "year": 2006,
+    "kms": "32000",
+    "price": "5800",
+    "vin": "3VWSF71K36M123456",
+    "images": [
+      "https://media.ed.edmunds-media.com/volkswagen/jetta/2006/evox/2006_volkswagen_jetta_sedan_gli_fqn_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/volkswagen/jetta/2006/evox/2006_volkswagen_jetta_sedan_25_en_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/volkswagen/jetta/2006/evox/2006_volkswagen_jetta_sedan_gli_wh_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/volkswagen/jetta/2006/evox/2006_volkswagen_jetta_sedan_gli_ca_evox_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Hyundai Sonata",
+    "model": "Sedan",
+    "year": 2006,
+    "kms": "42000",
+    "price": "4500",
+    "vin": "5NPEU46F46H123456",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2017/11/2006-hyundai-sonata-gls-sedan-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2017/11/2006-hyundai-sonata-gls-sedan-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2017/11/2006-hyundai-sonata-gls-sedan-dashboard.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2017/11/2006-hyundai-sonata-gls-sedan-side-view.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz C-Class",
+    "model": "Sedan",
+    "year": 2006,
+    "kms": "28000",
+    "price": "11000",
+    "vin": "WDBRF52H56A123456",
+    "images": [
+      "https://media.ed.edmunds-media.com/mercedes-benz/c-class/2006/oem/2006_mercedes-benz_c-class_sedan_c230-sport_fq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/c-class/2006/oem/2006_mercedes-benz_c-class_sedan_c350-luxury_fq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/c-class/2006/oem/2006_mercedes-benz_c-class_sedan_c350-sport_fq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/c-class/2006/oem/2006_mercedes-benz_c-class_sedan_c55-amg_fq_oem_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Chevrolet Aveo",
+    "model": "LS",
+    "year": 2004,
+    "kms": "28344",
+    "price": "6995",
+    "vin": "KL1TD52654B227204",
+    "images": [
+      "https://media.ed.edmunds-media.com/chevrolet/aveo/2004/oem/2004_chevrolet_aveo_sedan_ls_fq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/chevrolet/aveo/2004/oem/2004_chevrolet_aveo_sedan_ls_rq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/chevrolet/aveo/2004/evox/2004_chevrolet_aveo_sedan_base_pr_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/chevrolet/aveo/2004/oem/2004_chevrolet_aveo_sedan_ls_w_oem_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Toyota Camry",
+    "model": "LE",
+    "year": 2004,
+    "kms": "207829",
+    "price": "7495",
+    "vin": "4T1BE32K14U331262",
+    "images": [
+      "https://tdrpmimages.azureedge.net/private/2024/3/28/58ea4fe3-9215-43ee-ac50-7a93bc9fe7d0.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/private/2024/3/28/3452d05f-77ac-41e5-9484-2dd37ccc382e.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/private/2024/3/28/8ab3d222-3ea1-4b1d-873c-4250b936f4d6.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/private/2024/3/28/46ac38fc-8390-45bf-8d97-91d8d462a933.jpg-1024x786"
+    ]
+  },
+  {
+    "make": "Honda Accord",
+    "model": "LX",
+    "year": 2004,
+    "kms": "247834",
+    "price": "6995",
+    "vin": "1HGCM56374A157364",
+    "images": [
+      "https://media.ed.edmunds-media.com/honda/accord/2003/oem/2003_honda_accord_sedan_lx_fq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/honda/accord/2004/evox/2004_honda_accord_sedan_ex-v-6_fd_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/honda/accord/2004/oem/2004_honda_accord_sedan_ex-v-6_fq_oem_3_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/honda/accord/2003/oem/2003_honda_accord_sedan_lx_rq_oem_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Nissan Sentra",
+    "model": "1.8 S",
+    "year": 2004,
+    "kms": "283571",
+    "price": "4995",
+    "vin": "3N1CB51D94L862750",
+    "images": [
+      "https://media.ed.edmunds-media.com/nissan/sentra/2004/oem/2004_nissan_sentra_sedan_se-r-spec-v_fq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/nissan/sentra/2004/oem/2004_nissan_sentra_sedan_se-r-spec-v_rq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/nissan/sentra/2004/oem/2004_nissan_sentra_sedan_se-r-spec-v_s_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/nissan/sentra/2004/oem/2004_nissan_sentra_sedan_se-r-spec-v_f_oem_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Ford Focus",
+    "model": "SE",
+    "year": 2004,
+    "kms": "263387",
+    "price": "4495",
+    "vin": "1FAFP34314W125468",
+    "images": [
+      "https://www.edmunds.com/assets/m/for-sale/12-3fafp31n15r124146/img-2-960x.jpg",
+      "https://www.edmunds.com/assets/m/for-sale/12-3fafp31n15r124146/img-3-960x.jpg",
+      "https://www.edmunds.com/assets/m/for-sale/12-3fafp31n15r124146/img-4-960x.jpg",
+      "https://www.edmunds.com/assets/m/for-sale/12-3fafp31n15r124146/img-5-960x.jpg"
+    ]
+  },
+  {
+    "make": "Chevrolet Malibu",
+    "model": "LS",
+    "year": 2004,
+    "kms": "247834",
+    "price": "4995",
+    "vin": "1G1ZS52F74F238705",
+    "images": [
+      "https://media.ed.edmunds-media.com/chevrolet/malibu/2004/oem/2004_chevrolet_malibu_sedan_lt_fq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/chevrolet/malibu/2004/oem/2004_chevrolet_malibu_sedan_lt_rq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/chevrolet/malibu/2004/oem/2004_chevrolet_malibu_sedan_lt_rq_oem_3_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/chevrolet/malibu/2004/oem/2004_chevrolet_malibu_sedan_lt_s_oem_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Volkswagen Jetta",
+    "model": "GLS",
+    "year": 2004,
+    "kms": "243178",
+    "price": "4995",
+    "vin": "3VWSK69M34M064481",
+    "images": [
+      "https://media.ed.edmunds-media.com/volkswagen/jetta/2004/oem/2004_volkswagen_jetta_sedan_gls-18t_fq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/volkswagen/jetta/2004/oem/2004_volkswagen_jetta_sedan_gls-18t_rq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/volkswagen/jetta/2004/oem/2004_volkswagen_jetta_sedan_gls-18t_f_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/volkswagen/jetta/2004/oem/2004_volkswagen_jetta_sedan_gls-18t_f_oem_2_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Hyundai Elantra",
+    "model": "GLS",
+    "year": 2004,
+    "kms": "247832",
+    "price": "4995",
+    "vin": "KMHDN46D84U807116",
+    "images": [
+      "https://media.ed.edmunds-media.com/hyundai/elantra/2004/oem/2004_hyundai_elantra_sedan_gls_fq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/hyundai/elantra/2004/oem/2004_hyundai_elantra_sedan_gls_rq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/hyundai/elantra/2004/oem/2004_hyundai_elantra_sedan_gls_s_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/hyundai/elantra/2004/oem/2004_hyundai_elantra_sedan_gls_f_oem_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Mazda MAZDA3",
+    "model": "s",
+    "year": 2004,
+    "kms": "254732",
+    "price": "4495",
+    "vin": "JM1BK343541205234",
+    "images": [
+      "https://media.ed.edmunds-media.com/mazda/3/2004/oem/2004_mazda_3_4dr-hatchback_s_fq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mazda/3/2004/oem/2004_mazda_3_4dr-hatchback_s_rq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mazda/3/2004/oem/2004_mazda_3_4dr-hatchback_s_e_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mazda/3/2004/oem/2004_mazda_3_4dr-hatchback_s_i_oem_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Chrysler PT Cruiser",
+    "model": "Base",
+    "year": 2004,
+    "kms": "212429",
+    "price": "3995",
+    "vin": "3C4FY48B34T362099",
+    "images": [
+      "https://media.ed.edmunds-media.com/chrysler/pt-cruiser/2003/oem/2003_chrysler_pt-cruiser_wagon_gt_fq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/chrysler/pt-cruiser/2003/oem/2003_chrysler_pt-cruiser_wagon_gt_rq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/chrysler/pt-cruiser/2003/oem/2003_chrysler_pt-cruiser_wagon_turbo_s_oem_1_300.jpg",
+      "https://media.ed.edmunds-media.com/chrysler/pt-cruiser/2003/oem/2003_chrysler_pt-cruiser_wagon_turbo_f_oem_1_300.jpg"
+    ]
+  },
+  {
+    "make": "Toyota Camry",
+    "model": "Camry",
+    "year": 2007,
+    "kms": "25000",
+    "price": "10000",
+    "vin": "178M82633A123456",
+    "images": [
+      "https://tdrpmimages.azureedge.net/private/2024/3/30/ae3dd7f6-b328-44d1-9916-d355b782236a.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/private/2024/3/30/33e4451d-6b03-4b50-b2c2-9aed3f3e6abf.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/private/2024/3/30/6fc6cf88-4903-418e-a452-7a3b7b9ea4ec.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/private/2024/3/30/f530fb76-976c-433f-933a-bc4c638bba52.jpg-1024x786"
+    ]
+  },
+  {
+    "make": "Honda Accord",
+    "model": "Accord",
+    "year": 2007,
+    "kms": "30000",
+    "price": "9500",
+    "vin": "1HGCM82633A123457",
+    "images": [
+      "https://tdrpmimages.azureedge.net/photos/import/202312/1521/2514/f74cfa36-7e24-4ec6-8c49-c95e50acc135.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202312/0119/5722/393b0a68-e429-495b-a94d-f01f529b5d44.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202312/0119/5722/1ac51ef6-e5e3-43f5-b24b-9839d1c537d0.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202312/0119/5722/f1189e9f-07b3-4d1a-9c53-988020b4194f.jpg-1024x786"
+    ]
+  },
+  {
+    "make": "Nissan Altima",
+    "model": "Altima",
+    "year": 2007,
+    "kms": "28000",
+    "price": "8800",
+    "vin": "1HGCM82633A123458",
+    "images": [
+      "https://media.ed.edmunds-media.com/nissan/altima/2007/oem/2007_nissan_altima_sedan_35-sl_fq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/nissan/altima/2007/oem/2007_nissan_altima_sedan_35-sl_rq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/nissan/altima/2007/oem/2007_nissan_altima_sedan_35-sl_f_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/nissan/altima/2007/oem/2007_nissan_altima_sedan_35-sl_r_oem_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Chevrolet Malibu",
+    "model": "Malibu",
+    "year": 2007,
+    "kms": "27000",
+    "price": "7500",
+    "vin": "1HGCM82633A123459",
+    "images": [
+      "https://media.ed.edmunds-media.com/chevrolet/malibu/2007/oem/2007_chevrolet_malibu_sedan_lt_fq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/chevrolet/malibu/2007/oem/2007_chevrolet_malibu_sedan_ltz_fq_oem_2_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/chevrolet/malibu/2007/oem/2007_chevrolet_malibu_sedan_lt_rq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/chevrolet/malibu/2007/oem/2007_chevrolet_malibu_sedan_lt_rq_oem_2_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Ford Focus",
+    "model": "Focus",
+    "year": 2007,
+    "kms": "26000",
+    "price": "6200",
+    "vin": "1HGCM82633A123460",
+    "images": [
+      "https://media.ed.edmunds-media.com/ford/focus/2007/oem/2007_ford_focus_4dr-hatchback_zx5-ses_s_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/ford/focus/2007/oem/2007_ford_focus_2dr-hatchback_zx3-ses_rq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/ford/focus/2007/evox/2007_ford_focus_4dr-hatchback_zx5-se_fqn_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/ford/focus/2007/evox/2007_ford_focus_4dr-hatchback_zx5-se_en_evox_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Volkswagen Jetta",
+    "model": "Jetta",
+    "year": 2007,
+    "kms": "24000",
+    "price": "8900",
+    "vin": "1HGCM82633A123461",
+    "images": [
+      "https://media.ed.edmunds-media.com/volkswagen/jetta/2007/oem/2007_volkswagen_jetta_sedan_25_fq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/volkswagen/jetta/2007/oem/2007_volkswagen_jetta_sedan_25_rq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/volkswagen/jetta/2007/evox/2007_volkswagen_jetta_sedan_25_pr_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/volkswagen/jetta/2007/oem/2007_volkswagen_jetta_sedan_25_f_oem_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "BMW 3 Series",
+    "model": "3 Series",
+    "year": 2007,
+    "kms": "20000",
+    "price": "12500",
+    "vin": "1HGCM82633A123462",
+    "images": [
+      "https://tdrpmimages.azureedge.net/photos/import/202312/2102/4322/e9d56e78-b204-45fc-99bf-74349d8ee425.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202312/2102/4322/e217b7e3-6d8c-4475-b51e-a38393ebcf75.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202312/2102/4322/de2e8b2d-87f1-4240-beaf-eda53e6cd314.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202312/2102/4322/7f217c67-3b95-4437-a8ac-a3f9a7b000a4.jpg-1024x786"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz C-Class",
+    "model": "C-Class",
+    "year": 2007,
+    "kms": "22000",
+    "price": "11800",
+    "vin": "1HGCM82633A123463",
+    "images": [
+      "https://media.ed.edmunds-media.com/mercedes-benz/c-class/2007/oem/2007_mercedes-benz_c-class_sedan_c230-sport_fq_oem_3_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/c-class/2007/oem/2007_mercedes-benz_c-class_sedan_c230-sport_fq_oem_2_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/c-class/2007/oem/2007_mercedes-benz_c-class_sedan_c350-sport_fq_oem_3_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/c-class/2007/oem/2007_mercedes-benz_c-class_sedan_c230-sport_rq_oem_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Audi A4",
+    "model": "A4",
+    "year": 2007,
+    "kms": "19000",
+    "price": "10900",
+    "vin": "1HGCM82633A123464",
+    "images": [
+      "https://s.aolcdn.com/commerce/autodata/images/CAB70AUC016A0101.jpg",
+      "https://s.aolcdn.com/commerce/autodata/images/CAB70AUC016A0102.jpg",
+      "https://s.aolcdn.com/commerce/autodata/images/CAB70AUC016A0109.jpg",
+      "https://s.aolcdn.com/commerce/autodata/images/CAB70AUC016A0113.jpg"
+    ]
+  },
+  {
+    "make": "Lexus ES",
+    "model": "ES",
+    "year": 2007,
+    "kms": "18000",
+    "price": "13200",
+    "vin": "1HGCM82633A123465",
+    "images": [
+      "https://media.ed.edmunds-media.com/lexus/es-350/2007/oem/2007_lexus_es-350_sedan_base_fq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/lexus/es-350/2007/oem/2007_lexus_es-350_sedan_base_rq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/lexus/es-350/2007/oem/2007_lexus_es-350_sedan_base_e_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/lexus/es-350/2007/oem/2007_lexus_es-350_sedan_base_w_oem_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Audi A4",
+    "model": "Sedan",
+    "year": 2008,
+    "kms": "20000",
+    "price": "10000",
+    "vin": "234567890",
+    "images": [
+      "https://s.aolcdn.com/commerce/autodata/images/USB80AUC015A0101.jpg",
+      "https://s.aolcdn.com/commerce/autodata/images/USB80AUC015A0102.jpg",
+      "https://s.aolcdn.com/commerce/autodata/images/USB80AUC015A0109.jpg",
+      "https://s.aolcdn.com/commerce/autodata/images/USB80AUC015A0113.jpg"
+    ]
+  },
+  {
+    "make": "Honda Civic",
+    "model": "Coupe",
+    "year": 2008,
+    "kms": "15000",
+    "price": "8500",
+    "vin": "0987654321",
+    "images": [
+      "https://media.ed.edmunds-media.com/honda/civic/2008/oem/2008_honda_civic_sedan_hybrid_fq_oem_3_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/honda/civic/2008/oem/2008_honda_civic_sedan_hybrid_fq_oem_4_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/honda/civic/2008/oem/2008_honda_civic_sedan_hybrid_rq_oem_2_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/honda/civic/2008/evox/2008_honda_civic_sedan_hybrid_pr_evox_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Toyota Camry",
+    "model": "Sedan",
+    "year": 2008,
+    "kms": "25000",
+    "price": "9500",
+    "vin": "2468135790",
+    "images": [
+      "https://tdrpmimages.azureedge.net/photos/import/202304/2815/3317/5cb237cc-5664-4c5d-8cfb-bf83b42e7db2.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202304/2815/3317/69a19316-2dda-4a7f-b4e2-3447cde211cc.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202304/2815/3317/3ee3c4c7-4a54-4fdc-ba8e-9de9e55a75c4.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202304/2815/3317/9eda2063-1bc3-4d47-9a6b-49bc56224286.jpg-1024x786"
+    ]
+  },
+  {
+    "make": "Ford Mustang",
+    "model": "Convertible",
+    "year": 2008,
+    "kms": "12000",
+    "price": "12000",
+    "vin": "1357929980",
+    "images": [
+      "https://tdrpmimages.azureedge.net/photos/import/202312/0802/3859/b9d2ee9b-d41f-4fe8-a5cb-12f4d579a698.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202312/0802/3859/52350163-7f59-42ea-a990-7155a861462d.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202312/0802/3859/0fe7ee4a-46df-40c5-b7b4-2496a17d024c.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202312/0802/3859/c300f424-1417-4396-a878-cdb55dce4a8e.jpg-1024x786"
+    ]
+  },
+  {
+    "make": "Chevrolet Malibu",
+    "model": "Sedan",
+    "year": 2008,
+    "kms": "18000",
+    "price": "7500",
+    "vin": "5790132468",
+    "images": [
+      "https://media.ed.edmunds-media.com/chevrolet/malibu/2008/oem/2008_chevrolet_malibu_sedan_lt_fq_oem_3_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/chevrolet/malibu/2008/oem/2008_chevrolet_malibu_sedan_lt_fq_oem_4_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/chevrolet/malibu/2008/oem/2008_chevrolet_malibu_sedan_lt_rq_oem_3_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/chevrolet/malibu/2008/oem/2008_chevrolet_malibu_sedan_lt_rq_oem_3_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Nissan Altima",
+    "model": "Sedan",
+    "year": 2008,
+    "kms": "22000",
+    "price": "8000",
+    "vin": "8024681359",
+    "images": [
+      "https://media.ed.edmunds-media.com/nissan/altima/2008/evox/2008_nissan_altima_sedan_25-s_fqh_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/nissan/altima/2008/evox/2008_nissan_altima_sedan_25-s_rqn_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/nissan/altima/2008/evox/2008_nissan_altima_sedan_25-s_fs_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/nissan/altima/2008/evox/2008_nissan_altima_sedan_25-s_rst_evox_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "BMW 3 Series",
+    "model": "Sedan",
+    "year": 2008,
+    "kms": "17000",
+    "price": "11500",
+    "vin": "4681359024",
+    "images": [
+      "https://tdrpmimages.azureedge.net/photos/import/202312/1217/3918/dcfebba5-bef2-40d5-8ce4-e8c5069e3105.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202312/1217/3918/f96db1b4-eefc-4159-9887-f4989a5a3d7c.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202312/1217/3918/89328650-6b89-4342-b2be-ae0d398bef4e.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202312/1217/3918/d5f03aa4-d4e3-432a-9d70-142061082210.jpg-1024x786"
+    ]
+  },
+  {
+    "make": "Volkswagen Jetta",
+    "model": "Sedan",
+    "year": 2008,
+    "kms": "19000",
+    "price": "9000",
+    "vin": "0246813579",
+    "images": [
+      "https://tdrpmimages.azureedge.net/photos/import/202403/0122/5545/9456ede9-ceed-425f-8ac9-6a809d93abe0.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/0122/5545/bd289363-861a-4577-a9dd-44fd41365dff.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/0122/5545/3a9897b6-fa50-442c-9fa6-e623516be742.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/0122/5545/b07e20e6-18de-4f5a-aeb5-091f816328df.jpg-1024x786"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz C-Class",
+    "model": "Sedan",
+    "year": 2008,
+    "kms": "16000",
+    "price": "13500",
+    "vin": "3579024681",
+    "images": [
+      "https://media.ed.edmunds-media.com/mercedes-benz/c-class/2008/evox/2008_mercedes-benz_c-class_sedan_c300-luxury_fqn_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/c-class/2008/evox/2008_mercedes-benz_c-class_sedan_c350-sport_en_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/c-class/2008/evox/2008_mercedes-benz_c-class_sedan_c300-luxury_wh_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/mercedes-benz/c-class/2008/evox/2008_mercedes-benz_c-class_sedan_c300-luxury_pdo_evox_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Hyundai Sonata",
+    "model": "Sedan",
+    "year": 2008,
+    "kms": "21000",
+    "price": "7000",
+    "vin": "9024681357",
+    "images": [
+      "https://tdrpmimages.azureedge.net/private/2024/4/1/0e88385d-1941-4f21-950e-7d43c2424d79.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/private/2024/4/1/d1aa2372-b93c-44b7-9514-c601b97c279c.jpg-180x135",
+      "https://tdrpmimages.azureedge.net/private/2024/4/1/0b859d58-57fc-461a-afe7-3297891d0527.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/private/2024/4/1/05e3d0f7-1243-4010-a770-832bd2bc5052.jpg-1024x786"
+    ]
+  },
+  {
+    "make": "Audi A4",
+    "model": "A4",
+    "year": 2009,
+    "kms": "20000",
+    "price": "12000",
+    "vin": "1934567890",
+    "images": [
+      "https://s.aolcdn.com/commerce/autodata/images/USB90AUC015A0109.jpg",
+      "https://s.aolcdn.com/commerce/autodata/images/USB90AUC015A0112.jpg",
+      "https://s.aolcdn.com/commerce/autodata/images/USB90AUC015A0113.jpg",
+      "https://s.aolcdn.com/commerce/autodata/images/USB90AUC015A0114.jpg"
+    ]
+  },
+  {
+    "make": "Honda Accord",
+    "model": "Accord",
+    "year": 2009,
+    "kms": "30000",
+    "price": "8500",
+    "vin": "7987654321",
+    "images": [
+      "https://media.ed.edmunds-media.com/honda/accord/2009/evox/2009_honda_accord_sedan_ex-l_fqn_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/honda/accord/2009/evox/2009_honda_accord_sedan_lx-p_en_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/honda/accord/2009/evox/2009_honda_accord_sedan_ex-l_ca_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/honda/accord/2009/evox/2009_honda_accord_sedan_ex_pdo_evox_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Toyota Camry",
+    "model": "Camry",
+    "year": 2009,
+    "kms": "25000",
+    "price": "9500",
+    "vin": "13579296680",
+    "images": [
+      "https://media.ed.edmunds-media.com/toyota/camry/2009/evox/2009_toyota_camry_sedan_le_fqn_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/toyota/camry/2009/evox/2009_toyota_camry_sedan_le_en_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/toyota/camry/2009/evox/2009_toyota_camry_sedan_le_wh_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/toyota/camry/2009/evox/2009_toyota_camry_sedan_se-v6_pdo_evox_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Nissan Altima",
+    "model": "Altima",
+    "year": 2009,
+    "kms": "28000",
+    "price": "7800",
+    "vin": "2468017579",
+    "images": [
+      "https://media.ed.edmunds-media.com/nissan/altima/2009/evox/2009_nissan_altima_sedan_25-s_fqn_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/nissan/altima/2009/evox/2009_nissan_altima_sedan_25-s_en_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/nissan/altima/2009/evox/2009_nissan_altima_sedan_25-s_wh_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/nissan/altima/2009/evox/2009_nissan_altima_sedan_25-s_ca_evox_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Chevrolet Malibu",
+    "model": "Malibu",
+    "year": 2009,
+    "kms": "22000",
+    "price": "6900",
+    "vin": "3579246801",
+    "images": [
+      "https://media.ed.edmunds-media.com/chevrolet/malibu/2009/oem/2009_chevrolet_malibu_sedan_lt2_fq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/chevrolet/malibu/2009/oem/2009_chevrolet_malibu_sedan_lt2_fq_oem_2_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/chevrolet/malibu/2009/oem/2009_chevrolet_malibu_sedan_lt2_fq_oem_3_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/chevrolet/malibu/2009/oem/2009_chevrolet_malibu_sedan_lt2_rq_oem_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Ford Focus",
+    "model": "Focus",
+    "year": 2009,
+    "kms": "35000",
+    "price": "5500",
+    "vin": "4680135792",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2009-ford-focus-s-sedan-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2009-ford-focus-s-sedan-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2009-ford-focus-s-sedan-side-view.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2009-ford-focus-s-sedan-front-view.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Volkswagen Jetta",
+    "model": "Jetta",
+    "year": 2009,
+    "kms": "27000",
+    "price": "6200",
+    "vin": "5792468013",
+    "images": [
+      "https://media.ed.edmunds-media.com/volkswagen/jetta/2009/evox/2009_volkswagen_jetta_sedan_se_fqn_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/volkswagen/jetta/2009/evox/2009_volkswagen_jetta_sedan_se_en_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/volkswagen/jetta/2009/evox/2009_volkswagen_jetta_sedan_se-pzev_wh_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/volkswagen/jetta/2009/evox/2009_volkswagen_jetta_sedan_se-pzev_pdo_evox_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "BMW 3 Series",
+    "model": "3 Series",
+    "year": 2009,
+    "kms": "18000",
+    "price": "11500",
+    "vin": "6801357924",
+    "images": [
+      "https://media.ed.edmunds-media.com/bmw/3-series/2009/evox/2009_bmw_3-series_coupe_328i_fqn_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/bmw/3-series/2009/evox/2009_bmw_3-series_coupe_335i_en_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/bmw/3-series/2009/evox/2009_bmw_3-series_coupe_335i_wh_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/bmw/3-series/2009/evox/2009_bmw_3-series_coupe_335i_ca_evox_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz C-Class",
+    "model": "C-Class",
+    "year": 2009,
+    "kms": "24000",
+    "price": "10800",
+    "vin": "7924680135",
+    "images": [
+      "https://www.edmunds.com/assets/m/for-sale/6c-wddgf81x48f059204/img-1-960x.jpg",
+      "https://www.edmunds.com/assets/m/for-sale/6c-wddgf81x48f059204/img-3-960x.jpg",
+      "https://www.edmunds.com/assets/m/for-sale/6c-wddgf81x48f059204/img-4-960x.jpg",
+      "https://www.edmunds.com/assets/m/for-sale/6c-wddgf81x48f059204/img-5-960x.jpg"
+    ]
+  },
+  {
+    "make": "Lexus ES",
+    "model": "ES",
+    "year": 2009,
+    "kms": "21000",
+    "price": "9900",
+    "vin": "9013579246",
+    "images": [
+      "https://media.ed.edmunds-media.com/lexus/es-350/2009/evox/2009_lexus_es-350_sedan_base_fqn_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/lexus/es-350/2009/evox/2009_lexus_es-350_sedan_base_en_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/lexus/es-350/2009/evox/2009_lexus_es-350_sedan_base_ca_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/lexus/es-350/2009/evox/2009_lexus_es-350_sedan_base_oh_evox_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Audi A4",
+    "model": "A4",
+    "year": 2010,
+    "kms": "100000",
+    "price": "8995",
+    "vin": "WAUFFAFL7AN036984",
+    "images": [
+      "https://s.aolcdn.com/commerce/autodata/images/USC00AUC017A1109.jpg",
+      "https://s.aolcdn.com/commerce/autodata/images/USC00AUC017A1112.jpg",
+      "https://s.aolcdn.com/commerce/autodata/images/USC00AUC017A1113.jpg",
+      "https://s.aolcdn.com/commerce/autodata/images/USC00AUC017A1133.jpg"
+    ]
+  },
+  {
+    "make": "BMW 5 Series",
+    "model": "5 Series",
+    "year": 2010,
+    "kms": "90000",
+    "price": "9999",
+    "vin": "WBANU5C50AC363335",
+    "images": [
+      "https://www.edmunds.com/assets/m/for-sale/96-wbanv1c5xac157696/img-1-960x.jpg",
+      "https://www.edmunds.com/assets/m/for-sale/96-wbanv1c5xac157696/img-2-960x.jpg",
+      "https://www.edmunds.com/assets/m/for-sale/96-wbanv1c5xac157696/img-3-960x.jpg",
+      "https://www.edmunds.com/assets/m/for-sale/96-wbanv1c5xac157696/img-4-960x.jpg"
+    ]
+  },
+  {
+    "make": "Chevrolet Equinox",
+    "model": "Equinox",
+    "year": 2010,
+    "kms": "120000",
+    "price": "5500",
+    "vin": "2CNALBEW4A6205259",
+    "images": [
+      "https://media.ed.edmunds-media.com/chevrolet/equinox/2010/oem/2010_chevrolet_equinox_4dr-suv_ltz_fq_oem_2_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/chevrolet/equinox/2010/oem/2010_chevrolet_equinox_4dr-suv_ltz_rq_oem_2_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/chevrolet/equinox/2010/oem/2010_chevrolet_equinox_4dr-suv_ltz_s_oem_2_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/chevrolet/equinox/2010/oem/2010_chevrolet_equinox_4dr-suv_ltz_edetail_oem_2_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Ford Fusion",
+    "model": "Fusion",
+    "year": 2010,
+    "kms": "80000",
+    "price": "6995",
+    "vin": "3FAHP0HA7AR119686",
+    "images": [
+      "https://media.ed.edmunds-media.com/ford/fusion/2010/oem/2010_ford_fusion_sedan_sel_fq_oem_2_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/ford/fusion/2010/oem/2010_ford_fusion_sedan_sport_fq_oem_2_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/ford/fusion/2010/oem/2010_ford_fusion_sedan_sport_rq_oem_2_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/ford/fusion/2010/oem/2010_ford_fusion_sedan_sport_f_oem_2_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Honda CR-V",
+    "model": "CR-V",
+    "year": 2010,
+    "kms": "110000",
+    "price": "7500",
+    "vin": "5J6RE3H36AL006485",
+    "images": [
+      "https://tdrpmimages.azureedge.net/photos/import/202305/2603/2224/ffd75ed6-ce7b-43b0-877d-f989cdbf5cab.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202305/2603/2224/e1909467-0b33-45cb-89af-b5a6c01b62ef.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202305/2603/2224/f34e9ea6-3145-4bcf-aab6-601cd712aacd.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202305/2603/2224/09663a33-9b9c-4409-ba01-c63643a2675d.jpg-1024x786"
+    ]
+  },
+  {
+    "make": "Audi A4",
+    "model": "A4",
+    "year": 2011,
+    "kms": "25000",
+    "price": "12000",
+    "vin": "1234567880",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2011-audi-a4-2.0-t-quattro-tiptronic-premium-sedan-front-view.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2011-audi-a4-2.0-t-quattro-tiptronic-premium-sedan-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2011-audi-a4-2.0-t-quattro-tiptronic-premium-sedan-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2011-audi-a4-2.0-t-quattro-tiptronic-premium-sedan-rear-view.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "BMW 3 Series",
+    "model": "3 Series",
+    "year": 2011,
+    "kms": "30000",
+    "price": "13000",
+    "vin": "8987654321",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2011-bmw-3-series-328i-wagon-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2011-bmw-3-series-328i-wagon-front-view.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2011-bmw-3-series-328i-wagon-rear-view.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2011-bmw-3-series-328i-wagon-doors.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz C-Class",
+    "model": "C-Class",
+    "year": 2011,
+    "kms": "20000",
+    "price": "13500",
+    "vin": "4567890123",
+    "images": [
+      "https://www.edmunds.com/assets/m/for-sale/32-wddgf8bb7br183668/img-1-960x.jpg",
+      "https://www.edmunds.com/assets/m/for-sale/32-wddgf8bb7br183668/img-2-960x.jpg",
+      "https://www.edmunds.com/assets/m/for-sale/32-wddgf8bb7br183668/img-4-960x.jpg",
+      "https://www.edmunds.com/assets/m/for-sale/32-wddgf8bb7br183668/img-5-960x.jpg"
+    ]
+  },
+  {
+    "make": "Toyota Camry",
+    "model": "Camry",
+    "year": 2011,
+    "kms": "35000",
+    "price": "10500",
+    "vin": "2345678901",
+    "images": [
+      "https://tdrpmimages.azureedge.net/photos/import/202403/1620/2019/90e25307-463d-422b-8ef0-9a2212d21c4e.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/1620/2019/313aceca-6dee-4bae-8fb8-bd7aa963594c.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/1620/2019/3e79a77c-2ec4-4d09-b043-2d9003c63336.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/1620/2019/f7c645f5-88e2-4ce7-8e81-f6a1363e2e70.jpg-1024x786"
+    ]
+  },
+  {
+    "make": "Honda Accord",
+    "model": "Accord",
+    "year": 2011,
+    "kms": "28000",
+    "price": "11000",
+    "vin": "3456789012",
+    "images": [
+      "https://media.ed.edmunds-media.com/honda/accord/2011/evox/2011_honda_accord_sedan_lx-p_fqn_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/honda/accord/2011/evox/2011_honda_accord_sedan_se_en_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/honda/accord/2011/evox/2011_honda_accord_sedan_lx-p_ca_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/honda/accord/2011/evox/2011_honda_accord_sedan_lx-p_pdo_evox_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Audi A4",
+    "model": "A4",
+    "year": 2012,
+    "kms": "25456",
+    "price": "15999",
+    "vin": "WAUFFAFL0CN012345",
+    "images": [
+      "https://tdrpmimages.azureedge.net/photos/import/202403/2715/4117/4e3ebdb6-c7b0-41ce-8138-6610bb05f54a.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/2715/4117/4e3ebdb6-c7b0-41ce-8138-6610bb05f54a.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/2715/4117/edad87c6-26eb-4abf-8ec2-49257b151af3.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/2715/4117/edad87c6-26eb-4abf-8ec2-49257b151af3.jpg-1024x786"
+    ]
+  },
+  {
+    "make": "BMW X5",
+    "model": "X5",
+    "year": 2012,
+    "kms": "45678",
+    "price": "18995",
+    "vin": "5UXZV4C53CL123456",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2012-bmw-x5-xdrive-5.0-i-suv-front-view.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2012-bmw-x5-xdrive-5.0-i-suv-front-view.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2012-bmw-x5-xdrive-5.0-i-suv-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2012-bmw-x5-xdrive-5.0-i-suv-dashboard.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Honda Civic",
+    "model": "Civic",
+    "year": 2012,
+    "kms": "32987",
+    "price": "9499",
+    "vin": "2HGFB2F50CH123456",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2012-honda-civic-coupe-ex-auto-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2012-honda-civic-coupe-ex-auto-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2012-honda-civic-coupe-ex-auto-side-view.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2012-honda-civic-coupe-ex-auto-front-view.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Toyota Camry",
+    "model": "Camry",
+    "year": 2012,
+    "kms": "29301",
+    "price": "10995",
+    "vin": "4T1BF1FK2CU123456",
+    "images": [
+      "https://tdrpmimages.azureedge.net/photos/import/202403/2115/1107/87ee5466-2843-439e-8707-d0dbaf709302.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/2115/1107/87ee5466-2843-439e-8707-d0dbaf709302.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/2115/1107/87ee5466-2843-439e-8707-d0dbaf709302.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/2115/1107/87ee5466-2843-439e-8707-d0dbaf709302.jpg-1024x786"
+    ]
+  },
+  {
+    "make": "Chevrolet Malibu",
+    "model": "Malibu",
+    "year": 2012,
+    "kms": "18765",
+    "price": "7999",
+    "vin": "1G1ZB5E03CF123456",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2012-chevrolet-malibu-1ls-sedan-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2012-chevrolet-malibu-1ls-sedan-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2012-chevrolet-malibu-1ls-sedan-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2012-chevrolet-malibu-1ls-sedan-angular-rear.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Audi A4",
+    "model": "Sedan",
+    "year": 2013,
+    "kms": "25000",
+    "price": "20000",
+    "vin": "1H85M82633A123456",
+    "images": [
+      "https://tdrpmimages.azureedge.net/photos/import/202403/2623/5615/bfa0905c-f793-44f6-96ad-baf228b98291.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/2623/5615/08661a2a-fe23-4733-8c35-42ed2ce55bd5.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/2623/5615/3c05780b-c52c-4893-83d3-5f0230065dbe.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/2623/5615/5071ad80-26a7-4739-b44d-328661a15ec5.jpg-1024x786"
+    ]
+  },
+  {
+    "make": "BMW 3 Series",
+    "model": "Sedan",
+    "year": 2013,
+    "kms": "30000",
+    "price": "22000",
+    "vin": "1H96M82633A123456",
+    "images": [
+      "https://media.ed.edmunds-media.com/bmw/3-series/2013/evox/2013_bmw_3-series_convertible_328i_fqh_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/bmw/3-series/2013/evox/2013_bmw_3-series_convertible_328i_fs_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/bmw/3-series/2013/evox/2013_bmw_3-series_convertible_328i_pr_evox_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/bmw/3-series/2013/evox/2013_bmw_3-series_convertible_328i_rqh_evox_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz C-Class",
+    "model": "Sedan",
+    "year": 2013,
+    "kms": "20000",
+    "price": "21000",
+    "vin": "1HGCM828933A123456",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2013-mercedes-benz-c-250-sport-sedan-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2013-mercedes-benz-c-250-sport-sedan-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2013-mercedes-benz-c-250-sport-sedan-dashboard.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2013-mercedes-benz-c-250-sport-sedan-side-view.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Lexus IS",
+    "model": "Sedan",
+    "year": 2013,
+    "kms": "18000",
+    "price": "19000",
+    "vin": "1HGCM83633A123456",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2013-lexus-is-250-6-at-sedan-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2013-lexus-is-250-6-at-sedan-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2013-lexus-is-250-6-at-sedan-side-view.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2013-lexus-is-250-6-at-sedan-dashboard.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Acura TL",
+    "model": "Sedan",
+    "year": 2013,
+    "kms": "15000",
+    "price": "18000",
+    "vin": "1HGCM82633A199456",
+    "images": [
+      "https://tdrpmimages.azureedge.net/photos/import/202404/0218/2323/4af2168f-9d27-4a4e-ad63-49a512e9ed54.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202404/0218/2323/389e2cc0-ca68-4d42-abd2-ffae820ef574.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202404/0218/2323/8dd88f38-b6e8-4d1e-8bfe-5985f7da0e7c.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202404/0218/2323/05de5f4e-3b0e-4b4b-a78d-6dbd55937fc9.jpg-1024x786"
+    ]
+  },
+  {
+    "make": "Audi A3",
+    "model": "e-tron",
+    "year": 2014,
+    "kms": "28000",
+    "price": "16995",
+    "vin": "WAUJGAFM7EA000001",
+    "images": [
+      "https://tdrpmimages.azureedge.net/photos/import/202402/0718/4542/799d86d3-9a17-46f7-89f6-1ff3d261a7d0.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202402/0718/4542/eb1bb9c9-fbb3-43bb-81d6-d61ee98aafe1.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202402/0718/4542/5564d41a-ad1b-4862-b1c7-419daa0c3cf6.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202402/0718/4542/dfd08cee-4746-451c-a10b-9c8a3eed90cb.jpg-1024x786"
+    ]
+  },
+  {
+    "make": "BMW 3 Series",
+    "model": "Sedan",
+    "year": 2014,
+    "kms": "42800",
+    "price": "15995",
+    "vin": "WBA3B1C50EK130000",
+    "images": [
+      "https://tdrpmimages.azureedge.net/private/2024/3/15/926c7410-43b9-4664-b024-54643779a869.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/private/2024/3/15/911a57a4-87e4-4260-a6cf-b6bce6bf3184.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/private/2024/3/15/f8eaf289-004b-4b88-a144-18b995f3cd5f.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/private/2024/3/15/ea6e104a-2814-4f22-83ce-c16904d9d8e1.jpg-1024x786"
+    ]
+  },
+  {
+    "make": "Chevrolet Cruze",
+    "model": "Sedan",
+    "year": 2014,
+    "kms": "35200",
+    "price": "8995",
+    "vin": "1G1PC5SB2E7123000",
+    "images": [
+      "https://tdrpmimages.azureedge.net/photos/import/202403/2816/0047/66709ad8-2b22-4d8a-8487-ae0d25dc9b75.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/2816/0047/1b338d5a-6af6-469a-a26a-6253ab845a74.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/2816/0047/a5f58467-ead6-40de-ac85-6a297ae7766d.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/2816/0047/fc289e9e-70a8-408f-9db0-6bf8bf83bf39.jpg-1024x786"
+    ]
+  },
+  {
+    "make": "Ford Escape",
+    "model": "SUV",
+    "year": 2014,
+    "kms": "49500",
+    "price": "9995",
+    "vin": "1FMCU0GX9EUA12345",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2014-ford-escape-s-suv-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2014-ford-escape-s-suv-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2014-ford-escape-s-suv-dashboard.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2014-ford-escape-s-suv-side-view.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Honda Accord",
+    "model": "Sedan",
+    "year": 2014,
+    "kms": "31700",
+    "price": "12495",
+    "vin": "1HGCR2F30EA123456",
+    "images": [
+      "https://tdrpmimages.azureedge.net/photos/import/202403/2907/1405/da636def-8a08-4023-91a7-ca4cefa4d47a_overlay.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/1920/4051/7a6269f6-0368-4c78-bb9e-8c4a43e57724.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/1920/4051/9d13d472-aff0-4808-8c70-db9a21fca2c1.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/1920/4051/02f6b6d5-a38b-4874-aeaa-a3db07d688f3.jpg-1024x786"
+    ]
+  },
+  {
+    "make": "Audi A4",
+    "model": "A4",
+    "year": 2015,
+    "kms": "25000",
+    "price": "20000",
+    "vin": "1HGCM82630A123456",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2015-audi-a4-premium-sedan-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2015-audi-a4-premium-sedan-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2015-audi-a4-premium-sedan-dashboard.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2015-audi-a4-premium-sedan-wheel-cap.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "BMW X5",
+    "model": "X5",
+    "year": 2015,
+    "kms": "30000",
+    "price": "30000",
+    "vin": "2HGFG12697H123456",
+    "images": [
+      "https://www.motortrend.com/uploads/2023/02/2024-BMW-X5-11.jpg?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/2023/02/2024-BMW-X5-10.jpg?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/2023/02/2024-BMW-X5-22.jpg?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/2023/02/2024-BMW-X5-20.jpg?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Toyota Camry",
+    "model": "Camry",
+    "year": 2015,
+    "kms": "20000",
+    "price": "15000",
+    "vin": "3HGCM82633A123456",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2015-toyota-camry-se-sedan-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2015-toyota-camry-se-sedan-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2015-toyota-camry-se-sedan-dashboard.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2015-toyota-camry-se-sedan-wheel-cap.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Honda CR-V",
+    "model": "CR-V",
+    "year": 2015,
+    "kms": "22000",
+    "price": "18000",
+    "vin": "4HGCM82633A123456",
+    "images": [
+      "https://tdrpmimages.azureedge.net/photos/import/202403/0204/0541/0d94ceaf-9cc1-42bb-ada6-4e7273ab720c.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/0204/0541/acca9a08-4052-42c8-bf92-9b92ee69fe9a.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/0204/0541/1131055d-c339-4b88-83aa-a6cc4ff828de.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202403/0204/0541/079334ad-29be-4bba-b66e-004c56e0be3f.jpg-1024x786"
+    ]
+  },
+  {
+    "make": "Ford Mustang",
+    "model": "Mustang",
+    "year": 2015,
+    "kms": "15000",
+    "price": "25000",
+    "vin": "5HGCM82633A123456",
+    "images": [
+      "https://media.ed.edmunds-media.com/ford/mustang/2015/oem/2015_ford_mustang_coupe_ecoboost-premium_fq_oem_10_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/ford/mustang/2015/oem/2015_ford_mustang_coupe_ecoboost-premium_fq_oem_12_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/ford/mustang/2015/oem/2015_ford_mustang_coupe_ecoboost-premium_rq_oem_2_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/ford/mustang/2015/oem/2015_ford_mustang_coupe_ecoboost-premium_s_oem_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Audi A4",
+    "model": "A4",
+    "year": 2016,
+    "kms": "25000",
+    "price": "20000",
+    "vin": "WAUFFAFL5GN000001",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2016-audi-a4-premium-sedan-angular-front1.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2016-audi-a4-premium-sedan-angular-rear1.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2016-audi-a4-premium-sedan-dashboard1.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2015/11/2016-audi-a4-premium-sedan-wheel-cap.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "BMW X5",
+    "model": "X5",
+    "year": 2016,
+    "kms": "30000",
+    "price": "30000",
+    "vin": "5UXKR0C58G0P00002",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2017/11/2016-bmw-x5-xdrive35d-suv-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2017/11/2016-bmw-x5-xdrive35d-suv-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2017/11/2016-bmw-x5-xdrive35d-suv-dashboard.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2017/11/2016-bmw-x5-xdrive35d-suv-wheel-cap.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz C-Class",
+    "model": "C-Class",
+    "year": 2016,
+    "kms": "20000",
+    "price": "25000",
+    "vin": "55SWF4JB7GU000003",
+    "images": [
+      "https://www.edmunds.com/assets/m/for-sale/40-55swf4kb9gu131839/img-3-960x.jpg",
+      "https://www.edmunds.com/assets/m/for-sale/40-55swf4kb9gu131839/img-2-960x.jpg",
+      "https://www.edmunds.com/assets/m/for-sale/40-55swf4kb9gu131839/img-4-960x.jpg",
+      "https://www.edmunds.com/assets/m/for-sale/40-55swf4kb9gu131839/img-5-960x.jpg"
+    ]
+  },
+  {
+    "make": "Toyota Camry",
+    "model": "Camry",
+    "year": 2016,
+    "kms": "15000",
+    "price": "15000",
+    "vin": "4T1BF1FK0GU000004",
+    "images": [
+      "https://media.ed.edmunds-media.com/toyota/camry/2016/oem/2016_toyota_camry_sedan_xse_fq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/toyota/camry/2016/oem/2016_toyota_camry_sedan_xse_fq_oem_2_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/toyota/camry/2016/oem/2016_toyota_camry_sedan_xse_fq_oem_3_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/toyota/camry/2016/oem/2016_toyota_camry_sedan_xse_rq_oem_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Honda CR-V",
+    "model": "CR-V",
+    "year": 2016,
+    "kms": "18000",
+    "price": "18000",
+    "vin": "2HKRM3H30GH000005",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2017/11/2016-honda-crv-touring-2wd-suv-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2017/11/2016-honda-crv-touring-2wd-suv-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2017/11/2016-honda-crv-touring-2wd-suv-dashboard.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2017/11/2016-honda-crv-touring-2wd-suv-wheel-cap.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "BMW 3 Series",
+    "model": "320i",
+    "year": 2017,
+    "kms": "27139",
+    "price": "20998",
+    "vin": "WBA8A9C54HK619938",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2016/10/2017-bmw-3-series-320i-sedan-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2016/10/2017-bmw-3-series-320i-sedan-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2016/10/2017-bmw-3-series-320i-sedan-dashboard.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2016/10/2017-bmw-3-series-320i-sedan-side-view.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Audi A4",
+    "model": "Premium",
+    "year": 2017,
+    "kms": "29833",
+    "price": "22998",
+    "vin": "WAUGNAF4XHN043453",
+    "images": [
+      "https://www.motortrend.com/uploads/2023/08/2-2024-Audi-A4-front-view.jpg?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/2023/08/13-2024-Audi-A4-front-view.jpg?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/2023/08/8-2024-Audi-A4-interior.jpg?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/2023/08/7-2024-Audi-A4-interior.jpg?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Toyota Camry",
+    "model": "SE",
+    "year": 2017,
+    "kms": "41105",
+    "price": "16998",
+    "vin": "4T1BF1FK2HU294172",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2016/09/2017-toyota-camry-le-auto-sedan-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2016/09/2017-toyota-camry-le-auto-sedan-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2016/09/2017-toyota-camry-le-auto-sedan-dashboard.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2016/09/2017-toyota-camry-le-auto-sedan-side-view.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Honda Accord",
+    "model": "Sport",
+    "year": 2017,
+    "kms": "37356",
+    "price": "18998",
+    "vin": "1HGCR2F54HA226634",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2017/11/2017-honda-accord-sport-sedan-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2017/11/2017-honda-accord-sport-sedan-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2017/11/2017-honda-accord-sport-sedan-dashboard.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2017/11/2017-honda-accord-sport-sedan-side-view.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Ford Mustang",
+    "model": "EcoBoost",
+    "year": 2017,
+    "kms": "44271",
+    "price": "19998",
+    "vin": "1FA6P8TH5H5295318",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2016/06/2017-ford-mustang-v6-coupe-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2016/06/2017-ford-mustang-v6-coupe-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2016/06/2017-ford-mustang-v6-coupe-dashboard.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2016/06/2017-ford-mustang-v6-coupe-side-view.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Audi A4",
+    "model": "Sedan",
+    "year": 2018,
+    "kms": "25000",
+    "price": "35000",
+    "vin": "WAUANAF44JN000001",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2018/02/2018-audi-a4-premium-sedan-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2018/02/2018-audi-a4-premium-sedan-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2018/02/2018-audi-a4-premium-sedan-dashboard.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2018/02/2018-audi-a4-premium-sedan-side-view.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "BMW X5",
+    "model": "SUV",
+    "year": 2018,
+    "kms": "20000",
+    "price": "45000",
+    "vin": "5UXKR0C58J0X00001",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2017/12/2018-bmw-x5-xdrive35d-suv-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2017/12/2018-bmw-x5-xdrive35d-suv-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2017/12/2018-bmw-x5-xdrive35d-suv-dashboard.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2017/12/2018-bmw-x5-xdrive35d-suv-side-view.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz C-Class",
+    "model": "Coupe",
+    "year": 2018,
+    "kms": "15000",
+    "price": "40000",
+    "vin": "WDDWJ4KB5JF000001",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2017/10/2018-mercedes-benz-c-class-300-sedan-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2017/10/2018-mercedes-benz-c-class-300-sedan-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2017/10/2018-mercedes-benz-c-class-300-sedan-dashboard.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2017/10/2018-mercedes-benz-c-class-300-sedan-side-view.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Toyota Camry",
+    "model": "Sedan",
+    "year": 2018,
+    "kms": "30000",
+    "price": "25000",
+    "vin": "4T1B11HK9JU000001",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2017/08/2018-toyota-camry-se-sedan-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2017/08/2018-toyota-camry-se-sedan-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2017/08/2018-toyota-camry-se-sedan-dashboard.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2017/08/2018-toyota-camry-se-sedan-side-view.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Honda Civic",
+    "model": "Hatchback",
+    "year": 2018,
+    "kms": "18000",
+    "price": "20000",
+    "vin": "SHHFK7H54JU000001",
+    "images": [
+      "https://media.ed.edmunds-media.com/honda/civic/2018/oem/2018_honda_civic_coupe_si_fq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/honda/civic/2018/oem/2018_honda_civic_coupe_si_fq_oem_10_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/honda/civic/2018/oem/2018_honda_civic_coupe_si_fq_oem_4_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/honda/civic/2018/oem/2018_honda_civic_coupe_si_rq_oem_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Audi A1",
+    "model": "A1",
+    "year": 2019,
+    "kms": "25000",
+    "price": "20000",
+    "vin": "WAUZZZGB8KB123456",
+    "images": [
+      "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_1080,q_auto:eco,w_1920/v1/cms/uploads/PeDVRDgRM6UtmNGvBpA5",
+      "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_1080,q_auto:eco,w_1920/v1/cms/uploads/2T94rYSTCaUm5MYBcXq5",
+      "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_1080,q_auto:eco,w_1920/v1/cms/uploads/SnpRzsa3Ryezse2Pgx1s",
+      "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_1080,q_auto:eco,w_1920/v1/cms/uploads/8ptAtHZVSsapjScaLIkY"
+    ]
+  },
+  {
+    "make": "BMW X3",
+    "model": "X3",
+    "year": 2019,
+    "kms": "20000",
+    "price": "30000",
+    "vin": "5UXTY3C52K123456",
+    "images": [
+      "https://tdrpmimages.azureedge.net/photos/import/202311/2717/4234/791873a4-1683-4ab9-a30c-c4d648f389e6.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202311/2717/4234/0f5552f2-b75f-4152-825d-1e5d5cf683ed.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202311/2717/4234/b037f41d-66d9-46c1-b8d8-b872f43a1280.jpg-1024x786",
+      "https://tdrpmimages.azureedge.net/photos/import/202311/2717/4234/05f10baf-b3ef-4a95-a2f5-51d432a7bb6b.jpg-1024x786"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz C-Class",
+    "model": "C-Class",
+    "year": 2019,
+    "kms": "15000",
+    "price": "35000",
+    "vin": "55SWF8DB3K123456",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2018/11/2019-mercedes-benz-c-class-c300-sedan-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2018/11/2019-mercedes-benz-c-class-c300-sedan-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2018/11/2019-mercedes-benz-c-class-c300-sedan-dashboard.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2018/11/2019-mercedes-benz-c-class-c300-sedan-side-view.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Toyota Camry",
+    "model": "Camry",
+    "year": 2019,
+    "kms": "18000",
+    "price": "25000",
+    "vin": "4T1B11HK4K123456",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2018/09/2019-toyota-camry-se-auto-sedan-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2018/09/2019-toyota-camry-se-auto-sedan-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2018/09/2019-toyota-camry-se-auto-sedan-dashboard.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2018/09/2019-toyota-camry-se-auto-sedan-side-view.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Honda CR-V",
+    "model": "CR-V",
+    "year": 2019,
+    "kms": "22000",
+    "price": "28000",
+    "vin": "2HKRW2H87K123456",
+    "images": [
+      "https://media.ed.edmunds-media.com/honda/cr-v/2018/oem/2018_honda_cr-v_4dr-suv_touring_fq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/honda/cr-v/2018/oem/2018_honda_cr-v_4dr-suv_touring_rq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/honda/cr-v/2018/oem/2018_honda_cr-v_4dr-suv_touring_rq_oem_4_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/honda/cr-v/2018/oem/2018_honda_cr-v_4dr-suv_touring_rq_oem_9_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Audi A4",
+    "model": "Sedan",
+    "year": 2020,
+    "kms": "25000",
+    "price": "40000",
+    "vin": "1HGCM826374123456",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2020/08/2020-audi-a4-sedan-premium-sedan-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2020/08/2020-audi-a4-sedan-premium-sedan-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2020/08/2020-audi-a4-sedan-premium-sedan-dashboard.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2020/08/2020-audi-a4-sedan-premium-sedan-side-view.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "BMW X5",
+    "model": "SUV",
+    "year": 2020,
+    "kms": "20000",
+    "price": "60000",
+    "vin": "2HGFG12633H123456",
+    "images": [
+      "https://media.ed.edmunds-media.com/bmw/x5/2020/lt/2020_bmw_x5_f34_lt_908205_1600.jpg",
+      "https://media.ed.edmunds-media.com/bmw/x5/2020/lt/2020_bmw_x5_crg_lt_908202_1600.jpg",
+      "https://media.ed.edmunds-media.com/bmw/x5/2020/lt/2020_bmw_x5_dsh_lt_908202_1600.jpg",
+      "https://media.ed.edmunds-media.com/bmw/x5/2020/lt/2020_bmw_x5_whl_lt_908201_1600.jpg"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz C-Class",
+    "model": "Sedan",
+    "year": 2020,
+    "kms": "15000",
+    "price": "45000",
+    "vin": "3HGCM82633K123456",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2019/10/2020-mercedes-benz-c-class-c300-sedan-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2019/10/2020-mercedes-benz-c-class-c300-sedan-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2019/10/2020-mercedes-benz-c-class-c300-sedan-dashboard.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2019/10/2020-mercedes-benz-c-class-c300-sedan-side-view.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Toyota Camry",
+    "model": "Sedan",
+    "year": 2020,
+    "kms": "30000",
+    "price": "25000",
+    "vin": "4HGCM82633K123456",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2019/11/2020-toyota-camry-se-auto-sedan-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2019/11/2020-toyota-camry-se-auto-sedan-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2019/11/2020-toyota-camry-se-auto-sedan-dashboard.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2019/11/2020-toyota-camry-se-auto-sedan-side-view.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Honda CR-V",
+    "model": "SUV",
+    "year": 2020,
+    "kms": "18000",
+    "price": "30000",
+    "vin": "5HGCM82633K123456",
+    "images": [
+      "https://media.ed.edmunds-media.com/honda/cr-v/2020/oem/2020_honda_cr-v_4dr-suv_touring_fq_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/honda/cr-v/2020/oem/2020_honda_cr-v_4dr-suv_touring_rq_oem_2_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/honda/cr-v/2020/oem/2020_honda_cr-v_4dr-suv_touring_s_oem_1_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/honda/cr-v/2020/evox/2020_honda_cr-v_4dr-suv_ex_fs_evox_1_1280x855.jpg"
+    ]
+  },
+  {
+    "make": "Ford Mustang",
+    "model": "Coupe",
+    "year": 2020,
+    "kms": "12000",
+    "price": "35000",
+    "vin": "6HGCM82633K123456",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2019/09/2020-ford-mustang-fastback-ecoboost-coupe-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2019/09/2020-ford-mustang-fastback-ecoboost-coupe-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2019/09/2020-ford-mustang-fastback-ecoboost-coupe-dashboard.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2019/09/2020-ford-mustang-fastback-ecoboost-coupe-side-view.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Chevrolet Tahoe",
+    "model": "SUV",
+    "year": 2020,
+    "kms": "22000",
+    "price": "55000",
+    "vin": "7HGCM82633K123456",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2020/02/2020-chevrolet-tahoe-ls-suv-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2020/02/2020-chevrolet-tahoe-ls-suv-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2020/02/2020-chevrolet-tahoe-ls-suv-dashboard.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2020/02/2020-chevrolet-tahoe-ls-suv-side-view.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Nissan Rogue",
+    "model": "SUV",
+    "year": 2020,
+    "kms": "17000",
+    "price": "28000",
+    "vin": "8HGCM82633K123456",
+    "images": [
+      "https://www.motortrend.com/uploads/sites/10/2020/10/2020-nissan-rogue-s-suv-angular-front.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2020/10/2020-nissan-rogue-s-suv-angular-rear.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2020/10/2020-nissan-rogue-s-suv-dashboard.png?fit=around%7C875:492",
+      "https://www.motortrend.com/uploads/sites/10/2020/10/2020-nissan-rogue-s-suv-side-view.png?fit=around%7C875:492"
+    ]
+  },
+  {
+    "make": "Volkswagen Golf",
+    "model": "Hatchback",
+    "year": 2020,
+    "kms": "10000",
+    "price": "20000",
+    "vin": "9HGCM82633K123456",
+    "images": [
+      "https://media.ed.edmunds-media.com/volkswagen/golf-gti/2019/oem/2019_volkswagen_golf-gti_4dr-hatchback_se_fq_oem_2_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/volkswagen/golf-gti/2019/oem/2019_volkswagen_golf-gti_4dr-hatchback_se_fq_oem_3_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/volkswagen/golf-gti/2019/oem/2019_volkswagen_golf-gti_4dr-hatchback_se_rq_oem_2_1280x855.jpg",
+      "https://media.ed.edmunds-media.com/volkswagen/golf-gti/2019/oem/2019_volkswagen_golf-gti_4dr-hatchback_se_rq_oem_3_1280x855.jpg"
+    ]
+  }
+]

@@ -49,51 +49,72 @@ const AddCar = () => {
   };
 
   return (
-    <div className="add-car">
-      <h1>Add New Car</h1>
-      <form onSubmit={handleSubmit}>
-        <label>
-          Make:
-          <input type="text" name="make" value={car.make} onChange={handleChange} />
-        </label>
-        <label>
-          Model:
-          <input type="text" name="model" value={car.model} onChange={handleChange} />
-        </label>
-        <label>
-          Price:
-          <input type="number" name="price" value={car.price} onChange={handleChange} />
-        </label>
-        <label>
-          KMs:
-          <input type="number" name="kms" value={car.kms} onChange={handleChange} />
-        </label>
-        <label>
-          Description:
-          <textarea name="description" value={car.description} onChange={handleChange}></textarea>
-        </label>
-        <label>
-          Image 1:
-          <input type="text" value={car.images[0]} onChange={(e) => handleImageChange(0, e.target.value)} />
-        </label>
-        <label>
-          Image 2:
-          <input type="text" value={car.images[1]} onChange={(e) => handleImageChange(1, e.target.value)} />
-        </label>
-        <label>
-          Image 3:
-          <input type="text" value={car.images[2]} onChange={(e) => handleImageChange(2, e.target.value)} />
-        </label>
-        <label>
-          Image 4:
-          <input type="text" value={car.images[3]} onChange={(e) => handleImageChange(3, e.target.value)} />
-        </label>
-        <button type="submit" className="btn btn-primary">Add Car</button>
+    <div className="add-car container mt-5">
+      <h1 className="text-center mb-4">Add New Car</h1>
+      <form onSubmit={handleSubmit} className="needs-validation" noValidate>
+        <div className="row mb-3">
+          <div className="col-md-6">
+            <label htmlFor="make" className="form-label">Make</label>
+            <input type="text" className="form-control" id="make" name="make" value={car.make} onChange={handleChange} required />
+            <div className="invalid-feedback">Please provide a make.</div>
+          </div>
+          <div className="col-md-6">
+            <label htmlFor="model" className="form-label">Model</label>
+            <input type="text" className="form-control" id="model" name="model" value={car.model} onChange={handleChange} required />
+            <div className="invalid-feedback">Please provide a model.</div>
+          </div>
+        </div>
+        <div className="row mb-3">
+          <div className="col-md-6">
+            <label htmlFor="price" className="form-label">Price</label>
+            <input type="number" className="form-control" id="price" name="price" value={car.price} onChange={handleChange} required />
+            <div className="invalid-feedback">Please provide a price.</div>
+          </div>
+          <div className="col-md-6">
+            <label htmlFor="kms" className="form-label">KMs</label>
+            <input type="number" className="form-control" id="kms" name="kms" value={car.kms} onChange={handleChange} required />
+            <div className="invalid-feedback">Please provide the kilometers.</div>
+          </div>
+        </div>
+        <div className="mb-3">
+          <label htmlFor="description" className="form-label">Description</label>
+          <textarea className="form-control" id="description" name="description" value={car.description} onChange={handleChange} required></textarea>
+          <div className="invalid-feedback">Please provide a description.</div>
+        </div>
+        <div className="row mb-3">
+          <div className="col-md-3">
+            <label htmlFor="image1" className="form-label">Image 1</label>
+            <input type="text" className="form-control" id="image1" value={car.images[0]} onChange={(e) => handleImageChange(0, e.target.value)} required />
+            <div className="invalid-feedback">Please provide an image URL.</div>
+          </div>
+          <div className="col-md-3">
+            <label htmlFor="image2" className="form-label">Image 2</label>
+            <input type="text" className="form-control" id="image2" value={car.images[1]} onChange={(e) => handleImageChange(1, e.target.value)} required />
+            <div className="invalid-feedback">Please provide an image URL.</div>
+          </div>
+          <div className="col-md-3">
+            <label htmlFor="image3" className="form-label">Image 3</label>
+            <input type="text" className="form-control" id="image3" value={car.images[2]} onChange={(e) => handleImageChange(2, e.target.value)} required />
+            <div className="invalid-feedback">Please provide an image URL.</div>
+          </div>
+          <div className="col-md-3">
+            <label htmlFor="image4" className="form-label">Image 4</label>
+            <input type="text" className="form-control" id="image4" value={car.images[3]} onChange={(e) => handleImageChange(3, e.target.value)} required />
+            <div className="invalid-feedback">Please provide an image URL.</div>
+          </div>
+        </div>
+        <button type="submit" className="btn addcar">Add Car</button>
       </form>
-      <div className="image-preview">
-        {car.images.map((image, index) => (
-          image && <img key={index} src={image} alt={`Car ${index + 1}`} className="img-fluid" />
-        ))}
+      <div className="image-preview mt-4">
+        <div className="row">
+          {car.images.map((image, index) => (
+            image && (
+              <div key={index} className="col-md-3">
+                <img src={image} alt={`Car ${index + 1}`} className="img-fluid rounded" />
+              </div>
+            )
+          ))}
+        </div>
       </div>
     </div>
   );

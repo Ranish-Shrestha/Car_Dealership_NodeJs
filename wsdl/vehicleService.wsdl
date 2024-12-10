@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"
+             xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/"
+             xmlns:tns="http://example.com/vehicle"
+             targetNamespace="http://example.com/vehicle"
+             xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+    <!-- Types section -->
+    <types>
+        <xsd:schema targetNamespace="http://example.com/vehicle">
+            <xsd:element name="vehicle" type="xsd:string"/>
+            <xsd:element name="vehicleList">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="vehicle" maxOccurs="unbounded" type="xsd:string"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+        </xsd:schema>
+    </types>
+
+    <!-- Messages section -->
+    <message name="getAllVehiclesRequest"/>
+    <message name="getAllVehiclesResponse">
+        <part name="vehicleList" element="tns:vehicleList"/>
+    </message>
+
+    <message name="getVehicleByIdRequest">
+        <part name="id" type="xsd:string"/>
+    </message>
+    <message name="getVehicleByIdResponse">
+        <part name="vehicle" element="tns:vehicle"/>
+    </message>
+
+    <message name="createVehicleRequest">
+        <part name="vehicle" element="tns:vehicle"/>
+    </message>
+    <message name="createVehicleResponse">
+        <part name="vehicle" element="tns:vehicle"/>
+    </message>
+
+    <message name="updateVehicleRequest">
+        <part name="id" type="xsd:string"/>
+        <part name="vehicle" element="tns:vehicle"/>
+    </message>
+    <message name="updateVehicleResponse">
+        <part name="vehicle" element="tns:vehicle"/>
+    </message>
+
+    <message name="deleteVehicleRequest">
+        <part name="id" type="xsd:string"/>
+    </message>
+    <message name="deleteVehicleResponse">
+        <part name="message" type="xsd:string"/>
+    </message>
+
+    <!-- PortType section -->
+    <portType name="VehicleServicePortType">
+        <operation name="getAllVehicles">
+            <input message="tns:getAllVehiclesRequest"/>
+            <output message="tns:getAllVehiclesResponse"/>
+        </operation>
+        <operation name="getVehicleById">
+            <input message="tns:getVehicleByIdRequest"/>
+            <output message="tns:getVehicleByIdResponse"/>
+        </operation>
+        <operation name="createVehicle">
+            <input message="tns:createVehicleRequest"/>
+            <output message="tns:createVehicleResponse"/>
+        </operation>
+        <operation name="updateVehicle">
+            <input message="tns:updateVehicleRequest"/>
+            <output message="tns:updateVehicleResponse"/>
+        </operation>
+        <operation name="deleteVehicle">
+            <input message="tns:deleteVehicleRequest"/>
+            <output message="tns:deleteVehicleResponse"/>
+        </operation>
+    </portType>
+
+    <!-- Binding section -->
+    <binding name="VehicleServiceBinding" type="tns:VehicleServicePortType">
+        <soap:binding style="rpc" transport="http://schemas.xmlsoap.org/soap/http"/>
+        <operation name="getAllVehicles">
+            <soap:operation soapAction="http://example.com/vehicle/getAllVehicles"/>
+            <input>
+                <soap:body use="encoded" namespace="http://example.com/vehicle"/>
+            </input>
+            <output>
+                <soap:body use="encoded" namespace="http://example.com/vehicle"/>
+            </output>
+        </operation>
+        <operation name="getVehicleById">
+            <soap:operation soapAction="http://example.com/vehicle/getVehicleById"/>
+            <input>
+                <soap:body use="encoded" namespace="http://example.com/vehicle"/>
+            </input>
+            <output>
+                <soap:body use="encoded" namespace="http://example.com/vehicle"/>
+            </output>
+        </operation>
+        <operation name="createVehicle">
+            <soap:operation soapAction="http://example.com/vehicle/createVehicle"/>
+            <input>
+                <soap:body use="encoded" namespace="http://example.com/vehicle"/>
+            </input>
+            <output>
+                <soap:body use="encoded" namespace="http://example.com/vehicle"/>
+            </output>
+        </operation>
+        <operation name="updateVehicle">
+            <soap:operation soapAction="http://example.com/vehicle/updateVehicle"/>
+            <input>
+                <soap:body use="encoded" namespace="http://example.com/vehicle"/>
+            </input>
+            <output>
+                <soap:body use="encoded" namespace="http://example.com/vehicle"/>
+            </output>
+        </operation>
+        <operation name="deleteVehicle">
+            <soap:operation soapAction="http://example.com/vehicle/deleteVehicle"/>
+            <input>
+                <soap:body use="encoded" namespace="http://example.com/vehicle"/>
+            </input>
+            <output>
+                <soap:body use="encoded" namespace="http://example.com/vehicle"/>
+            </output>
+        </operation>
+    </binding>
+
+    <!-- Service section -->
+    <service name="VehicleService">
+        <port name="VehicleServicePort" binding="tns:VehicleServiceBinding">
+            <soap:address location="http://localhost:4000/vehicles"/>
+        </port>
+    </service>
+</definitions>

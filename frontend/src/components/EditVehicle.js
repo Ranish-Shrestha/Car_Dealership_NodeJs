@@ -117,7 +117,7 @@ const EditVehicle = () => {
             <label htmlFor="image4" className="form-label">Image 4</label>
             <input type="text" className="form-control" id="image4" value={vehicle.images[3]} onChange={(e) => handleImageChange(3, e.target.value)} required />
           </div>
-          <button type="submit" className="btn btn-warning">Update Vehicle</button>
+          <button type="submit" className="btn btn-warning ">Update Vehicle</button>
         </form>
       </div>
     </div>

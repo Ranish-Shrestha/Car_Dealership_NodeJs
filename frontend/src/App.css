@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 /* App.css */
 body {
   font-family: "Poppins", sans-serif;
@@ -92,7 +92,7 @@ select {
   margin-top: 10px;
   padding: 8px 16px;
   color: #fff;
-  background-color: #4CAF50;
+  background-color: #4caf50;
   text-decoration: none;
   transition: background-color 0.3s ease;
 }
@@ -112,7 +112,7 @@ select {
   padding: 10px 15px;
   margin: 0 5px;
   border: none;
-  background-color: #4CAF50;
+  background-color: #4caf50;
   color: #fff;
   border-radius: 4px;
   cursor: pointer;
@@ -166,11 +166,7 @@ select {
   }
 }
 
-
-
-
-
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap");
 
 .card-wrapper {
   max-width: 1100px;
@@ -304,7 +300,8 @@ img {
 .car-detail ul li {
   margin: 0;
   list-style: none;
-  background: url(https://fadzrinmadu.github.io/hosted-assets/product-detail-page-design-with-image-slider-html-css-and-javascript/checked.png) left center no-repeat;
+  background: url(https://fadzrinmadu.github.io/hosted-assets/product-detail-page-design-with-image-slider-html-css-and-javascript/checked.png)
+    left center no-repeat;
   background-size: 18px;
   padding-left: 1.7rem;
   margin: 0.4rem 0;
@@ -343,30 +340,29 @@ img {
   color: #fff;
 }
 
-.back-to-list { 
-  display: inline-block; 
-  margin-bottom: 20px; 
-  color: #007bff; 
-  text-decoration: none; 
-  font-size: 16px; 
-  transition: all 0.3s ease-in-out; 
-} 
+.back-to-list {
+  display: inline-block;
+  margin-bottom: 20px;
+  color: #007bff;
+  text-decoration: none;
+  font-size: 16px;
+  transition: all 0.3s ease-in-out;
+}
 
-.back-to-list:hover { 
-  text-decoration: none; 
-  color: #0056b3; 
+.back-to-list:hover {
+  text-decoration: none;
+  color: #0056b3;
   transform: translateX(-5px);
-
 }
 
 .addcar {
-  background: #4CAF50;
+  background: #4caf50;
   border: none;
   color: #fff;
 }
 .addcar:hover {
-   background: #2bc430;
-   color: #fff;
+  background: #2bc430;
+  color: #fff;
 }
 
 .add-car {
@@ -380,8 +376,8 @@ img {
   color: #343a40;
 }
 
-.add-car .form-label {
-  font-weight: bold;
+.add-car, .form-label {
+  font-weight: 600;
 }
 
 .add-car .btn-primary {
@@ -393,7 +389,6 @@ img {
   background-color: #0056b3;
   border-color: #004085;
 }
-
 
 .image-preview img {
   margin-top: 10px;
@@ -428,3 +423,82 @@ img {
     padding-top: 0;
   }
 }
+
+.vehicle-list-container { 
+  font-family: 'Arial', sans-serif; 
+  background-color: #f8f9fa; 
+  margin: 0 !important;
+ 
+}
+
+.vehicle-list-header { 
+  background-color: #343a40; 
+}
+
+.filters label {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+.vehicle-grid {
+  margin-top: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.vehicle-card {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+}
+
+.vehicle-card .card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.vehicle-card .card-body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.vehicle-list-container { 
+  margin: 0 20px; 
+
+} 
+
+.vehicle-list-container .container { 
+  margin-top: 20px; 
+  margin-bottom: 20px;
+}
+
+.addcar {
+  display: inline-block;
+  padding: 10px 15px;
+  margin-top: 10px;
+  color: white;
+  background-color: #007bff;
+  border-color: #007bff;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.addcar:hover {
+  background-color: #0056b3;
+  border-color: #004085;
+}
+

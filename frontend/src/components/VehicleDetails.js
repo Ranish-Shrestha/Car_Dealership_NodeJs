@@ -72,14 +72,19 @@ const VehicleDetails = () => {
         throw new Error("Failed to delete vehicle");
       }
 
-      navigate("/");
-      // Navigate back to the list after deletion
+      navigate("/"); // Navigate back to the list after deletion
     } catch (err) {
       setError(err.message); // Set error message
     }
   };
+  
   const handleEdit = () => {
     navigate(`/vehicle/${id}/edit`);
+  };
+
+  const handleShareClick = (platform) => {
+    const url = `https://www.${platform}.com/share?url=${window.location.href}`;
+    window.open(url, '_blank');
   };
 
   if (loading) return <p>Loading vehicle details...</p>;
@@ -91,6 +96,9 @@ const VehicleDetails = () => {
       <div className="card-car-details">
         <div className="car-imgs">
           <div className="img-display">
+            <Link to="/" className="back-to-list ml-2">
+              <i className="fas fa-arrow-left"></i> Back to List
+            </Link>
             <div className="img-showcase">
               {vehicle.images &&
                 vehicle.images.map((image, index) => (
@@ -98,6 +106,7 @@ const VehicleDetails = () => {
                     src={image}
                     className="img-fluid"
                     alt={`${vehicle.make} ${vehicle.model}`}
+                    key={index}
                   />
                 ))}
             </div>
@@ -178,17 +187,15 @@ const VehicleDetails = () => {
               <i className="fab fa-pinterest"></i>
             </a>
           </div>
+          <button onClick={handleDelete} className="btn btn-danger ml-2">
+            Delete
+          </button>
+          <button onClick={handleEdit} className="btn btn-warning ml-2">
+            Edit
+          </button>
         </div>
       </div>
-      <Link to="/" className="btn btn-secondary mt-3">
-        Back to List
-      </Link>
-      <button onClick={handleDelete} className="btn btn-danger ml-2">
-        Delete
-      </button>
-      <button onClick={handleEdit} className="btn addcar ml-2">
-        Edit
-      </button>
+
     </div>
   );
 };
